@@ -1,2 +1,4 @@
-# elecciones2025
-Datos y recursos sobre las Elecciones generales 2025 en Bolivia
+# Elecciones 2025
+
+Datos y recursos sobre las elecciones generales 2025 en Bolivia
+
