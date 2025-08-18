@@ -6,6 +6,13 @@ import requests
 import pandas as pd
 import os
 
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+from urllib3.exceptions import ProtocolError
+from http.client import RemoteDisconnected
+import time
+import random
+
 
 def descarga():
     HEADERS = {
@@ -23,24 +30,40 @@ def descarga():
         "sec-fetch-dest": "empty",
         "referer": "https://computo.oep.org.bo/",
         "accept-language": "en-US,en;q=0.9,es;q=0.8",
+        "Connection": "close",
     }
 
     url = "https://computo.oep.org.bo/api/v1/descargar"
 
-    for attempt in range(3):  # retry up to 3 times
-        try:
-            archivo = requests.post(
-                url,
-                headers=HEADERS,
-                json={"tipoArchivo": "CSV"},
-                timeout=30,
-            )
-            archivo.raise_for_status()
-            break
-        except Exception as e:
-            if attempt == 2:
-                raise
-            print(f"intento {attempt + 1} falló: {e}. reintentando...")
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=1.5,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset(["POST"]),
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+
+    with requests.Session() as s:
+        s.mount("https://", adapter)
+        s.headers.update(HEADERS)
+
+        for intento in range(1, 4):
+            try:
+                archivo = s.post(
+                    url,
+                    json={"tipoArchivo": "CSV"},
+                    timeout=(10, 60),
+                )
+                archivo.raise_for_status()
+                break
+            except (requests.ConnectionError, ProtocolError, RemoteDisconnected) as e:
+                if intento == 3:
+                    raise
+                print(f"intento {intento} falló: {e}. reintentando...")
+                time.sleep(1.5**intento + random.uniform(0, 0.5))
 
     return pd.read_csv(BytesIO(base64.b64decode(archivo.json()["archivo"])))
 
