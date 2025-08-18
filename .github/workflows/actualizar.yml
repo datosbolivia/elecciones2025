@@ -22,7 +22,7 @@ jobs:
       - name: Python
         run: |
           python -m pip install --upgrade pip
-          pip install pandas requests
+          pip install pandas httpx[http2]
       - name: Actualizar
         run: |
          ./resultados/actualizar.py

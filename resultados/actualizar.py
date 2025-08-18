@@ -2,7 +2,6 @@
 
 import base64
 from io import BytesIO
-import requests
 import pandas as pd
 import os
 import httpx
