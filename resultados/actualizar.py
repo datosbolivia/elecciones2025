@@ -5,11 +5,7 @@ from io import BytesIO
 import requests
 import pandas as pd
 import os
-
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-from urllib3.exceptions import ProtocolError
-from http.client import RemoteDisconnected
+import httpx
 import time
 import random
 
@@ -34,38 +30,27 @@ def descarga():
     }
 
     url = "https://computo.oep.org.bo/api/v1/descargar"
+    timeout = httpx.Timeout(connect=10.0, read=60.0, write=10.0, pool=60.0)
 
-    retry = Retry(
-        total=3,
-        connect=3,
-        read=3,
-        backoff_factor=1.5,
-        status_forcelist=(429, 500, 502, 503, 504),
-        allowed_methods=frozenset(["POST"]),
-        raise_on_status=False,
-    )
-    adapter = HTTPAdapter(max_retries=retry)
-
-    with requests.Session() as s:
-        s.mount("https://", adapter)
-        s.headers.update(HEADERS)
-
-        for intento in range(1, 4):
-            try:
-                archivo = s.post(
-                    url,
-                    json={"tipoArchivo": "CSV"},
-                    timeout=(10, 60),
-                )
-                archivo.raise_for_status()
-                break
-            except (requests.ConnectionError, ProtocolError, RemoteDisconnected) as e:
-                if intento == 3:
-                    raise
-                print(f"intento {intento} falló: {e}. reintentando...")
-                time.sleep(1.5**intento + random.uniform(0, 0.5))
-
-    return pd.read_csv(BytesIO(base64.b64decode(archivo.json()["archivo"])))
+    last_exc = None
+    for intento in range(1, 5):
+        try:
+            with httpx.Client(http2=True, headers=HEADERS, timeout=timeout) as client:
+                r = client.post(url, json={"tipoArchivo": "CSV"})
+                r.raise_for_status()
+                data = base64.b64decode(r.json().get("archivo"))
+                return pd.read_csv(BytesIO(data))
+        except (
+            httpx.RemoteProtocolError,
+            httpx.ReadError,
+            httpx.ConnectError,
+            httpx.HTTPError,
+        ) as e:
+            last_exc = e
+            if intento == 4:
+                raise
+            print(f"intento {intento} falló: {e}. reintentando...")
+            time.sleep(1.5**intento + random.uniform(0, 0.5))
 
 
 def consolidar(df):
