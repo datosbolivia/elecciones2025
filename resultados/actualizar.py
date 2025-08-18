@@ -51,7 +51,7 @@ def consolidar(df):
     indice = ["CodigoMesa", "CodigoRecinto"]
     elecciones = [
         {"valor": "PRESIDENTE", "folder": "presidente"},
-        {"valor": "DIPUTADO CIRCUNSCRIPCIÓN UNINOMINAL", "folder": "uninominal"},
+        {"valor": "DIPUTADO CIRCUNSCRIPCIÓN UNINOMINAL", "folder": "uninominales"},
     ]
     partidos = {
         1: "AP",
