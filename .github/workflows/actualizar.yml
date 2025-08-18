@@ -25,7 +25,7 @@ jobs:
           pip install pandas requests
       - name: Actualizar
         run: |
-         ./actualizar.py
+         ./resultados/actualizar.py
       - name: Commit
         run: |
           git config --global user.email "elecciones2025@example.com"
