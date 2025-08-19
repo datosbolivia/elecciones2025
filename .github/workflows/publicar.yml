@@ -33,6 +33,9 @@ jobs:
       working-directory: ./resultados/vista
       run: npm run build
 
+    - name: ensure .nojekyll
+      run: touch ./docs/.nojekyll
+
     - name: publicar
       uses: peaceiris/actions-gh-pages@v3
       with:
