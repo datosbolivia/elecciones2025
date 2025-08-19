@@ -32,4 +32,4 @@ jobs:
           git config --global user.email "elecciones2025@example.com"
           git config --global user.name "elecciones2025-bot"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] actualización de resultados"; git push -q "https://$GH_TOKEN@github.com/datosbolivia/elecciones2025.git" master)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] actualización de resultados"; git push -q "https://$GH_TOKEN@github.com/datosbolivia/elecciones2025.git" main)
