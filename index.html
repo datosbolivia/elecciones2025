@@ -60,14 +60,14 @@
 import {define} from "./_observablehq/client.0f853e96.js";
 import {registerFile} from "./_observablehq/stdlib.24b62b2e.js";
 
-registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755644105981,"size":18424});
-registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755644105981,"size":48160});
-registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755644105981,"size":10220});
-registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755644105982,"size":14496});
-registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755644105983,"size":295964});
-registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755644105983,"size":38746});
-registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755644105983,"size":47182});
-registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755644105983,"size":44812});
+registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755644610602,"size":18424});
+registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755644610602,"size":48160});
+registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755644610602,"size":10220});
+registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755644610602,"size":14496});
+registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755644610603,"size":295964});
+registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755644610604,"size":38746});
+registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755644610604,"size":47182});
+registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755644610604,"size":44812});
 
 define({id: "59519bf1", mode: "inline", inputs: ["timestamp_string","display"], body: async (timestamp_string,display) => {
 display(await(
@@ -93,11 +93,12 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
 return {protocol};
 }});
 
-define({id: "618c5eed", inputs: ["d3","FileAttachment"], outputs: ["gh","recintos","resultados","timestamp","dateFormatter","timestamp_string","progreso","fotos","colores","fondo"], body: async (d3,FileAttachment) => {
-const gh = "https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/resultados/datos/"
+define({id: "9c5d30a5", inputs: ["d3","FileAttachment"], outputs: ["gh","recintos","resultados","timestamp","dateFormatter","timestamp_string","progreso","fotos","colores","fondo"], body: async (d3,FileAttachment) => {
+const gh =
+  "https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/resultados/datos/";
 const recintos = await d3.json(`${gh}recintos.geojson`);
 const resultados = await d3.json(`${gh}resultados.json`);
-const timestamp = await fetch(`${gh}timestamp`).then(r => r.text());
+const timestamp = await fetch(`${gh}timestamp`).then((r) => r.text());
 const dateFormatter = new Intl.DateTimeFormat("es", {
   year: "numeric",
   month: "long",
@@ -107,7 +108,7 @@ const dateFormatter = new Intl.DateTimeFormat("es", {
   timeZone: "UTC",
 });
 const timestamp_string = dateFormatter.format(new Date(timestamp));
-const progreso = await fetch(`${gh}progreso`).then(r => r.text());
+const progreso = await fetch(`${gh}progreso`).then((r) => r.text());
 let fotos = {
   AP: await FileAttachment("./imagenes/ap.webp").url(),
   "LYP-ADN": await FileAttachment("./imagenes/lyp-adn.webp").url(),
@@ -151,7 +152,7 @@ colores_expresion.push(fondo.gris);
 return {colores_expresion};
 }});
 
-define({id: "ee1eac22", outputs: ["labels","recintos_hover"], body: () => {
+define({id: "4d744dd8", outputs: ["labels","recintos_hover"], body: () => {
 const labels = {
   source: {
     type: "raster",
@@ -179,12 +180,20 @@ const recintos_hover = {
     "circle-color": "rgba(0,0,0,0)",
     "circle-radius": [
       "interpolate",
-      ["exponential", 2],
+      ["exponential", 1.2],
       ["zoom"],
-      0,
-      5,
+      6,
+      10,
+      10,
+      14,
+      12,
       18,
-      15,
+      14,
+      22,
+      16,
+      26,
+      18,
+      30,
     ],
   },
 };
@@ -284,7 +293,7 @@ function plot_resultado(resultado) {
 return {plot_resultado};
 }});
 
-define({id: "286bac9b", inputs: ["display","maplibregl","recintos","colores_expresion","labels","recintos_hover","resultados","plot_resultado","invalidation"], outputs: ["div","map","popup","locked","mouseenter","mouseleave"], body: (display,maplibregl,recintos,colores_expresion,labels,recintos_hover,resultados,plot_resultado,invalidation) => {
+define({id: "e70465fd", inputs: ["display","maplibregl","recintos","colores_expresion","labels","recintos_hover","resultados","plot_resultado","invalidation"], outputs: ["div","map","popup","locked","mouseenter","mouseleave"], body: (display,maplibregl,recintos,colores_expresion,labels,recintos_hover,resultados,plot_resultado,invalidation) => {
 const div = display(document.createElement("div"));
 div.id = "mapa";
 const map = new maplibregl.Map({
@@ -312,7 +321,23 @@ map.on("load", function () {
     type: "circle",
     source: "recintos",
     paint: {
-      "circle-radius": 3,
+      "circle-radius": [
+        "interpolate",
+        ["exponential", 1.4],
+        ["zoom"],
+        6,
+        2,
+        10,
+        4,
+        12,
+        6,
+        14,
+        9,
+        16,
+        12,
+        18,
+        16,
+      ],
       "circle-color": colores_expresion,
       "circle-opacity": 0.5,
     },
@@ -397,6 +422,7 @@ return {div,map,popup,locked,mouseenter,mouseleave};
     min-height: 100vh;
   }
   .header {
+    color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -455,11 +481,11 @@ return {div,map,popup,locked,mouseenter,mouseleave};
 </div>
 <div class="observablehq observablehq--block"><!--:367a1f0d:--></div>
 <div class="observablehq observablehq--block"><!--:a9ffa112:--></div>
-<div class="observablehq observablehq--block"><!--:618c5eed:--></div>
+<div class="observablehq observablehq--block"><!--:9c5d30a5:--></div>
 <div class="observablehq observablehq--block"><!--:076f91d7:--></div>
-<div class="observablehq observablehq--block"><!--:ee1eac22:--></div>
+<div class="observablehq observablehq--block"><!--:4d744dd8:--></div>
 <div class="observablehq observablehq--block"><!--:842c8555:--></div>
-<div class="observablehq observablehq--block"><!--:286bac9b:--></div>
+<div class="observablehq observablehq--block"><!--:e70465fd:--></div>
 </main>
 </div>
 </body>
