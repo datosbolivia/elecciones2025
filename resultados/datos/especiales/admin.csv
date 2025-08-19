@@ -199,6 +199,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2395,4050,7075482,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Itanambikua,U.E. Juan Pablo Rivero Herbas,4
 3573,1,7075552,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Guirarapo,U.E. Guirarapo,1
 3574,1,7075562,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Curundaity,U.E. Urundayti,1
+3574,1,7075572,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Curundaity,U.E. Urundayti,2
 3575,1,7075582,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Imbochi,U.E. Imbochi,1
 3576,1,7075592,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Puente Viejo,U.E. El Puente,1
 3576,1,7075602,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,6,Camiri,Puente Viejo,U.E. El Puente,2
@@ -240,6 +241,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2940,4,7086552,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,San Antonio de Lomerio,U.E. 13 de Junio,6
 2940,4,7086562,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,San Antonio de Lomerio,U.E. 13 de Junio,7
 2941,23,7086572,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,Salinas,U.E. Villa Chavez,1
+2941,23,7086582,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,Salinas,U.E. Villa Chavez,2
 2942,20025,7086592,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,San Lorenzo,U.E. Suiza,1
 2942,20025,7086602,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,San Lorenzo,U.E. Suiza,2
 3425,25052,7086612,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,5,San Antonio de Lomerio,Fátima,U.E. Padre Pio,1
@@ -287,6 +289,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2522,7006,7090712,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,3
 2522,7006,7090722,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,4
 2522,7006,7090742,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,6
+2523,7005,7090752,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Monseñor Salvatierra,Esc. Secc. Mon. Salvatierra,1
 3604,1,7090762,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Santa Teresita (Cururu),U.E. 1ro de abril,1
 2525,7008,7090892,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,1
 2525,7008,7090912,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,3

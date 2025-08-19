@@ -4406,6 +4406,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,906,2028051,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. 13 de Junio,2
 729,906,2028061,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. 13 de Junio,3
 729,906,2028071,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. 13 de Junio,4
+729,907,2028091,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Mcal. Antonio Jose De Sucre A,2
 729,907,2028121,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Mcal. Antonio Jose De Sucre A,5
 729,25730,2028131,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Pantini,1
 729,25730,2028141,32,BOLIVIA,2,La Paz,7,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Pantini,2
@@ -7067,6 +7068,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,30046,2057431,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,2
 820,30046,2057441,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,3
 820,30046,2057461,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,5
+820,30046,2057471,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,6
 820,30046,2057481,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,7
 820,30046,2057491,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,8
 820,30046,2057511,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Boliviano Japones B,10
@@ -7120,6 +7122,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,25039,2058061,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,7
 820,25039,2058071,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,8
 820,25039,2058081,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,9
+820,25039,2058111,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,12
 820,25039,2058121,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,13
 820,25039,2058131,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,14
 820,25039,2058141,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Republica De Italia,15
@@ -7815,6 +7818,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2990,2131,2066911,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Pasarani (Cruz Pata),Colegio Pasarani,1
 2990,2131,2066921,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Pasarani (Cruz Pata),Colegio Pasarani,2
 2991,2132,2066931,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Cotañani,Colegio Cotañani,1
+3628,1,2066951,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Huilacunca,Escuela Huilacunca,2
+4108,25517,2066961,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Mollipongo,U.E. Mollipongo,1
 4503,32136,2066971,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Sehuenquera,U.E. Sehuenquera,1
 4582,32294,2066981,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,3,Puerto Mayor de Carabuco,Quilima,U.E. Juan José Torrez Gonzales,1
 203,2291,2066991,32,BOLIVIA,2,La Paz,14,0,4,Camacho                                 ,4,Humanata                                ,Pacollo (Camacho),Esc. S.J. De Pacollo,1
@@ -8441,6 +8446,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 463,2648,2078471,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Huancane,U.E. Huancane,7
 463,2648,2078481,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Huancane,U.E. Huancane,8
 463,2648,2078491,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Huancane,U.E. Huancane,9
+464,2649,2078501,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Ocobaya,Colegio Gral. Armando Escobar Uria,1
 464,2649,2078511,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Ocobaya,Colegio Gral. Armando Escobar Uria,2
 465,26171,2078531,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Villa Asunta Cutusuma,Colegio Técnico Humanístico Cutusuma,1
 465,26171,2078541,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,1,Chulumani,Villa Asunta Cutusuma,Colegio Técnico Humanístico Cutusuma,2
@@ -8488,6 +8494,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 493,2670,2080031,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,5
 493,2670,2080041,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,6
 493,2670,2080051,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,7
+493,2670,2080061,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,8
 493,2670,2080071,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,9
 493,2670,2080081,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,10
 493,2670,2080091,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,11
@@ -8502,6 +8509,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 493,2670,2080181,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,20
 493,2670,2080191,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,21
 493,2670,2080211,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,23
+493,2670,2080221,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,24
 493,2670,2080231,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,25
 493,2670,2080241,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,26
 493,2670,2080251,32,BOLIVIA,2,La Paz,16,0,11,Sud Yungas                              ,5,La Asunta,La Asunta,Esc. Rene Barrientos Ortuno,27
@@ -8925,6 +8933,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 660,25746,2088521,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,2,San Pedro de Tiquina,Santiago de Ojje,U.E. Santiago de Ojje,2
 661,2306,2088531,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,2,San Pedro de Tiquina,Calata de San Martín,Sede Social,1
 662,2319,2088541,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,2,San Pedro de Tiquina,Villa Amacari,Colegio Villa Amacari,1
+662,2319,2088551,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,2,San Pedro de Tiquina,Villa Amacari,Colegio Villa Amacari,2
 4493,32126,2088561,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,2,San Pedro de Tiquina,Calata Grande,U. E. Puerto Mejillones,1
 4493,32126,2088571,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,2,San Pedro de Tiquina,Calata Grande,U. E. Puerto Mejillones,2
 663,2312,2088581,32,BOLIVIA,2,La Paz,14,0,17,Manco Kapac                             ,3,Tito Yupanqui                           ,Tito Yupanqui (Parquipujiu),Colegio Nacional Mixto Tito Yupanqui,1
@@ -9104,6 +9113,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,107,3001141,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Club De Leones,9
 821,107,3001151,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Club De Leones,10
 821,107,3001181,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Club De Leones,13
+821,107,3001191,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Club De Leones,14
 821,25922,3001221,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Genoveva Ríos,2
 821,25922,3001231,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Genoveva Ríos,3
 821,25922,3001241,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Genoveva Ríos,4
@@ -9199,6 +9209,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,203,3002671,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Luis Quintin Vila,16
 821,203,3002691,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Luis Quintin Vila,18
 821,203,3002711,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Luis Quintin Vila,20
+821,101,3002741,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela IV Centenario,3
 821,101,3002751,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela IV Centenario,4
 821,101,3002761,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela IV Centenario,5
 821,101,3002781,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela IV Centenario,7
@@ -9230,6 +9241,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,231,3003301,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,6
 821,231,3003311,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,7
 821,231,3003321,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 14 de Septiembre,8
+821,25872,3003331,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Jorge Vásquez,1
 821,25872,3003351,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Jorge Vásquez,3
 821,25872,3003381,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Jorge Vásquez,6
 821,25872,3003401,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Jorge Vásquez,8
@@ -9270,6 +9282,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,226,3003941,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rosendo Peña,5
 821,226,3003951,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rosendo Peña,6
 821,226,3003961,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rosendo Peña,7
+821,226,3003971,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rosendo Peña,8
 821,132,3003981,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,1
 821,132,3003991,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,2
 821,132,3004001,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,3
@@ -9278,6 +9291,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,132,3004071,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,10
 821,132,3004091,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,12
 821,132,3004101,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,13
+821,132,3004111,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,14
 821,132,3004121,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,15
 821,132,3004151,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Antofagasta,18
 821,26442,3004171,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,kinder Antofagasta,1
@@ -9346,6 +9360,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,164,3005071,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,5
 821,164,3005081,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,6
 821,164,3005121,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,10
+821,164,3005151,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,13
 821,164,3005221,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,20
 821,164,3005231,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,21
 821,164,3005241,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Santa Maria Micaela,22
@@ -9438,6 +9453,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,177,3006621,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educ. Eduardo Lopez O E. Don Bosco,2
 821,177,3006641,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educ. Eduardo Lopez O E. Don Bosco,4
 821,177,3006651,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educ. Eduardo Lopez O E. Don Bosco,5
+821,177,3006691,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educ. Eduardo Lopez O E. Don Bosco,9
+821,177,3006711,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educ. Eduardo Lopez O E. Don Bosco,11
 821,177,3006741,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educ. Eduardo Lopez O E. Don Bosco,14
 821,212,3006751,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa de La Fuerza Aerea,1
 821,212,3006761,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa de La Fuerza Aerea,2
@@ -9450,6 +9467,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,165,3006841,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,1
 821,165,3006851,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,2
 821,165,3006861,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,3
+821,165,3006901,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,7
 821,165,3006911,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,8
 821,165,3006921,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,9
 821,165,3006931,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Esc. Republica Del Peru O I. Vasquez,10
@@ -9550,6 +9568,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,166,3008311,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Estados Unidos,7
 821,166,3008321,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Estados Unidos,8
 821,25313,3008331,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Madre De La Divina Providencia,1
+821,25313,3008351,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Madre De La Divina Providencia,3
+821,25313,3008361,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Madre De La Divina Providencia,4
 821,25313,3008381,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Madre De La Divina Providencia,6
 821,171,3008401,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Martin Cardenas,2
 821,171,3008501,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Martin Cardenas,12
@@ -9593,6 +9613,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,175,3009141,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Buenas Nuevas A,22
 821,213,3009151,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Buenas Nuevas C,1
 821,213,3009161,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Buenas Nuevas C,2
+821,213,3009181,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Buenas Nuevas C,4
 821,213,3009191,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Buenas Nuevas C,5
 821,213,3009241,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Buenas Nuevas C,10
 821,213,3009251,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Buenas Nuevas C,11
@@ -9609,14 +9630,17 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,156,3009601,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Amor de Dios,17
 821,156,3009621,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Amor de Dios,19
 821,156,3009631,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Amor de Dios,20
+821,214,3009671,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Alto Cochabamba,4
 821,221,3009681,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rene Crespo,1
 821,221,3009691,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rene Crespo,2
 821,221,3009711,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rene Crespo,4
 821,25878,3009721,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Vikinga Boliviana,1
+821,25878,3009731,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Vikinga Boliviana,2
 821,169,3009741,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,1
 821,169,3009751,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,2
 821,169,3009761,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,3
 821,169,3009771,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,4
+821,169,3009791,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,6
 821,169,3009811,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,8
 821,169,3009821,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,9
 821,169,3009841,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Andres Bello,11
@@ -9642,6 +9666,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,241,3010111,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,17
 821,241,3010121,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,18
 821,241,3010131,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,19
+821,241,3010151,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,21
 821,241,3010161,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,22
 821,241,3010171,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,23
 821,241,3010181,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa 26 de Octubre,24
@@ -9690,6 +9715,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,181,3010741,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Vision Mundial,16
 821,25876,3010751,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. San Miguel Arcángel,1
 821,25876,3010761,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. San Miguel Arcángel,2
+821,25877,3010771,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Túpac Katari,1
+821,25877,3010781,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Túpac Katari,2
 821,25877,3010791,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Túpac Katari,3
 821,25899,3010811,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. El Molino,1
 821,25899,3010831,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. El Molino,3
@@ -9697,6 +9724,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,25899,3010861,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. El Molino,6
 821,183,3010881,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa El Salvador San Javier,1
 821,183,3010891,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa El Salvador San Javier,2
+821,183,3010901,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa El Salvador San Javier,3
 821,183,3010921,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa El Salvador San Javier,5
 821,183,3010931,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa El Salvador San Javier,6
 821,183,3010961,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa El Salvador San Javier,9
@@ -9720,6 +9748,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,207,3011321,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Barbara Lamas,17
 821,25888,3011371,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Francisco Javier Baldivieso Luna,1
 821,25888,3011381,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Francisco Javier Baldivieso Luna,2
+821,25888,3011431,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Francisco Javier Baldivieso Luna,7
 821,25888,3011441,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Francisco Javier Baldivieso Luna,8
 821,173,3011451,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Santa Luisa Marillac,1
 821,173,3011461,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Santa Luisa Marillac,2
@@ -9780,6 +9809,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,185,3012251,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rene Barrientos Ortuño,19
 821,185,3012261,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rene Barrientos Ortuño,20
 821,185,3012271,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Rene Barrientos Ortuño,21
+821,180,3012281,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Obispo Anaya,1
 821,180,3012291,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Obispo Anaya,2
 821,180,3012301,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Obispo Anaya,3
 821,180,3012311,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Obispo Anaya,4
@@ -9813,6 +9843,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,222,3012741,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Maria Josefa Mujia,15
 821,222,3012751,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Maria Josefa Mujia,16
 821,222,3012761,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Maria Josefa Mujia,17
+821,182,3012781,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gerardo Vargas,1
 821,182,3012791,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gerardo Vargas,2
 821,182,3012801,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gerardo Vargas,3
 821,182,3012831,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gerardo Vargas,6
@@ -9917,6 +9948,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,25901,3014111,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Luz y Verdad,2
 821,25901,3014121,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Luz y Verdad,3
 821,244,3014131,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Voces Libres,1
+821,244,3014141,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Voces Libres,2
 821,244,3014151,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Voces Libres,3
 821,244,3014161,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Voces Libres,4
 821,244,3014171,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Voces Libres,5
@@ -10005,6 +10037,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,187,3015161,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio San Antonio De Pucara,56
 821,187,3015171,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio San Antonio De Pucara,57
 821,187,3015181,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio San Antonio De Pucara,58
+821,195,3015201,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Humberto Portocarrero,1
 821,195,3015211,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Humberto Portocarrero,2
 821,195,3015221,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Humberto Portocarrero,3
 821,195,3015231,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Humberto Portocarrero,4
@@ -10037,6 +10070,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,25929,3015601,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Patria Nueva,12
 821,25929,3015611,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Patria Nueva,13
 821,25929,3015631,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Patria Nueva,15
+821,25929,3015641,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Patria Nueva,16
 821,25929,3015671,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Patria Nueva,19
 821,26147,3015681,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Prof. Jaime Alfonso Escalante Gutierrez,1
 821,26147,3015701,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Prof. Jaime Alfonso Escalante Gutierrez,3
@@ -10055,6 +10089,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,26324,3015841,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Sede Social Alto Higuerani,1
 821,26324,3015861,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Sede Social Alto Higuerani,3
 821,190,3015921,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Demetrio Canelas,6
+821,190,3015941,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Demetrio Canelas,8
 821,190,3015971,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Demetrio Canelas,11
 821,198,3016001,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Bolivia (La Maica),2
 821,198,3016021,32,BOLIVIA,3,Cochabamba,22,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Bolivia (La Maica),4
@@ -10185,6 +10220,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,105,3017791,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Hispano Boliviano,8
 821,105,3017801,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Hispano Boliviano,9
 821,105,3017811,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Hispano Boliviano,10
+821,105,3017821,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Hispano Boliviano,11
 821,26448,3017831,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Universidad Latinoamericana,1
 821,26448,3017841,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Universidad Latinoamericana,2
 821,157,3017861,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Pio XII,2
@@ -10212,7 +10248,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,113,3018101,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,9
 821,113,3018111,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,10
 821,113,3018121,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Instituto Eduardo Laredo,11
+821,144,3018131,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Aleman Santa Maria,1
 821,144,3018151,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Aleman Santa Maria,3
+821,144,3018171,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Aleman Santa Maria,5
 821,144,3018181,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Aleman Santa Maria,6
 821,144,3018201,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Aleman Santa Maria,8
 821,144,3018221,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Aleman Santa Maria,10
@@ -10238,6 +10276,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,142,3018471,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Abaroa,7
 821,142,3018481,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Abaroa,8
 821,143,3018501,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),1
+821,143,3018511,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),2
 821,143,3018521,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),3
 821,143,3018531,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),4
 821,143,3018541,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Unidad Educativa Daniel Salamanca (Ex Colegio Nal. Mixto 6 De Agosto),5
@@ -10262,6 +10301,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,26446,3018801,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Evangelico Emanuel,1
 821,26446,3018811,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Evangelico Emanuel,2
 821,32072,3018821,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U.E. Mariano Ricardo Terrazas,1
+821,161,3018861,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio La Salle Fiscal,3
 821,161,3018971,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio La Salle Fiscal,14
 821,161,3018981,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio La Salle Fiscal,15
 821,161,3018991,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio La Salle Fiscal,16
@@ -10334,6 +10374,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,149,3019791,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gualberto Villarroel,8
 821,149,3019801,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gualberto Villarroel,9
 821,149,3019811,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Escuela Gualberto Villarroel,10
+821,145,3019831,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Don Bosco,2
+821,145,3019851,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Don Bosco,4
 821,145,3019861,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Don Bosco,5
 821,145,3019891,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Don Bosco,8
 821,145,3019901,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Don Bosco,9
@@ -10371,6 +10413,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,120,3020381,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,5
 821,120,3020401,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,7
 821,120,3020411,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,8
+821,120,3020421,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,9
 821,120,3020431,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,10
 821,120,3020451,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,12
 821,120,3020471,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Maryknoll,14
@@ -10401,6 +10444,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,26325,3020871,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Rey de Reyes,3
 821,26325,3020891,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Rey de Reyes,5
 821,26325,3020921,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Rey de Reyes,8
+821,26325,3020961,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Rey de Reyes,12
+821,26325,3020991,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Rey de Reyes,15
 821,116,3021001,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Centro Inmaculada Concepcion,1
 821,116,3021011,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Centro Inmaculada Concepcion,2
 821,116,3021021,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Centro Inmaculada Concepcion,3
@@ -10462,11 +10507,13 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,122,3021991,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,1
 821,122,3022011,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,3
 821,122,3022031,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,5
+821,122,3022041,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,6
 821,122,3022051,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,7
 821,122,3022061,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,8
 821,122,3022081,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Venezuela,10
 821,137,3022091,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Paulo VI,1
 821,137,3022101,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Paulo VI,2
+821,137,3022111,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Paulo VI,3
 821,137,3022121,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Paulo VI,4
 821,137,3022141,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Paulo VI,6
 821,137,3022151,32,BOLIVIA,3,Cochabamba,20,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Paulo VI,7
@@ -10564,6 +10611,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 821,174,3023381,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,Colegio Sebastian Pagador,25
 821,25875,3023391,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Peniel,1
 821,25875,3023401,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Peniel,2
+821,25875,3023411,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Peniel,3
 821,25875,3023421,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Peniel,4
 821,25875,3023431,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Peniel,5
 821,25897,3023441,32,BOLIVIA,3,Cochabamba,21,0,1,Cercado                                 ,1,Cochabamba,Cochabamba,U. E. Pentecostal de Bolivia,1
@@ -10621,6 +10669,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4244,25916,3024391,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,1,Aiquile,Tipa Pampa,U. E. Tipa Pampa,1
 4537,32231,3024411,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,1,Aiquile,Tabla Mayu,U.E. Tabla Mayu,1
 4541,32234,3024431,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,1,Aiquile,Higus Pampa,U.E. Higus Pampa,1
+830,2012,3024461,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,2,Pasorapa,Pasorapa,Colegio Tte.Cnel. Nataniel Verduguez,3
 831,2013,3024481,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,2,Pasorapa,Quinori,Escuela Central Quinori,1
 3117,2021,3024491,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,2,Pasorapa,Seibas,Unidad Educativa Seibas,1
 3723,1,3024501,32,BOLIVIA,3,Cochabamba,25,0,2,Campero                                 ,2,Pasorapa,Pampas,Unidad Educativa Pampas,1
@@ -10665,6 +10714,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4236,25908,3025121,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Cotani,U. E. Cotani,1
 4238,25910,3025151,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Llajma Alto Chamacoma,U. E. Llajma,1
 4239,25911,3025161,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Cuesta K'uchu,U. E. Cuesta Cuchu,1
+4240,25912,3025171,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Colaya,U. E. Qhulaya,1
 4240,25912,3025181,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Colaya,U. E. Qhulaya,2
 4241,25913,3025191,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Lirimani,U. E. Lirimani,1
 4406,26140,3025201,32,BOLIVIA,3,Cochabamba,27,0,3,Ayopaya                                 ,1,Ayopaya,Carhuani,U.E. Karhuani,1
@@ -10808,6 +10858,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 892,6001,3027681,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Arque,Escuela Nataniel Aguirre,1
 892,6001,3027691,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Arque,Escuela Nataniel Aguirre,2
 892,6001,3027701,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Arque,Escuela Nataniel Aguirre,3
+892,6001,3027711,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Arque,Escuela Nataniel Aguirre,4
 893,6002,3027721,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Pongo Kasa,Escuela Juana Azurduy   Pongo K'Asa,1
 893,6002,3027731,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Pongo Kasa,Escuela Juana Azurduy   Pongo K'Asa,2
 894,6003,3027741,32,BOLIVIA,3,Cochabamba,27,0,6,Arque                                   ,1,Arque,Ovejeria Larama,Escuela E Internado Dario Antezana V.,1
@@ -10944,8 +10995,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 934,25039,3030341,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,6
 934,25039,3030361,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,8
 934,25039,3030371,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,9
+934,25039,3030381,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,10
 934,25039,3030411,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,13
 934,25039,3030421,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,14
+934,25039,3030431,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,15
 934,25039,3030441,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,16
 934,25039,3030451,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,17
 934,25039,3030471,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Liceo América,19
@@ -11064,6 +11117,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 934,25031,3031931,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Cristina Prada,12
 934,25031,3031941,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Cristina Prada,13
 934,25031,3031951,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Cristina Prada,14
+934,25032,3032021,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Franz Tamayo,7
 934,25032,3032041,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Franz Tamayo,9
 934,25032,3032051,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Franz Tamayo,10
 934,25032,3032061,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Colegio Franz Tamayo,11
@@ -11118,11 +11172,13 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 934,25905,3032651,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U. E. Tunari,7
 934,25905,3032661,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U. E. Tunari,8
 934,32301,3032671,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 23 de Marzo,1
+934,32301,3032681,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 23 de Marzo,2
 934,32301,3032691,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 23 de Marzo,3
 934,25051,3032701,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,1
 934,25051,3032711,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,2
 934,25051,3032751,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,6
 934,25051,3032761,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,7
+934,25051,3032771,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,8
 934,25051,3032781,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,9
 934,25051,3032791,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,10
 934,25051,3032801,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Martin Cardenas,11
@@ -11140,6 +11196,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 934,25046,3032951,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Unidad Educativa Ironcollo,15
 934,25483,3032961,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 21 de Septiembre,1
 934,25483,3032971,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 21 de Septiembre,2
+934,25483,3033001,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 21 de Septiembre,5
 934,25483,3033031,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 21 de Septiembre,8
 934,25483,3033041,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 21 de Septiembre,9
 934,25483,3033061,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,U.E. 21 de Septiembre,11
@@ -11182,6 +11239,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 934,25035,3033631,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Escuela Arturo Quitón,10
 934,25035,3033661,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Escuela Arturo Quitón,13
 934,25035,3033681,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Escuela Arturo Quitón,15
+934,25035,3033711,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Quillacollo,Escuela Arturo Quitón,18
 935,9014,3033781,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Illataco,U. E. Jose Miguel Lanza (Illataco),3
 935,9014,3033791,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Illataco,U. E. Jose Miguel Lanza (Illataco),4
 935,9014,3033811,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Illataco,U. E. Jose Miguel Lanza (Illataco),6
@@ -11219,6 +11277,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 936,9016,3034211,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Piñami,Centro Integral Niño Jesus Fe y Alegria,6
 936,9016,3034231,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Piñami,Centro Integral Niño Jesus Fe y Alegria,8
 936,9016,3034241,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Piñami,Centro Integral Niño Jesus Fe y Alegria,9
+936,25687,3034261,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Piñami,U.E. Oscar Alfaro,2
+936,25687,3034281,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Piñami,U.E. Oscar Alfaro,4
 937,9016,3034291,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Paucarpata,Normal Simón Rodríguez (Ex Nucleo Escolar Paucarpata),1
 937,9016,3034301,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Paucarpata,Normal Simón Rodríguez (Ex Nucleo Escolar Paucarpata),2
 937,9016,3034311,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Paucarpata,Normal Simón Rodríguez (Ex Nucleo Escolar Paucarpata),3
@@ -11252,6 +11312,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 938,9017,3034681,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Cotapachi,U. E. Mcal. José Ballivian,4
 938,9017,3034691,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Cotapachi,U. E. Mcal. José Ballivian,5
 938,9017,3034731,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,Cotapachi,U. E. Mcal. José Ballivian,9
+939,9019,3034811,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Unidad Educativa Maria Auxiliadora,3
+939,9019,3034821,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Unidad Educativa Maria Auxiliadora,4
+939,9019,3034851,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Unidad Educativa Maria Auxiliadora,7
 939,9018,3034861,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Unidad Educativa El Paso,1
 939,9018,3034881,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Unidad Educativa El Paso,3
 939,9018,3034901,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Unidad Educativa El Paso,5
@@ -11280,6 +11343,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 939,25684,3035191,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,U. E. El Paso  A,16
 939,9020,3035201,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,1
 939,9020,3035211,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,2
+939,9020,3035221,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,3
+939,9020,3035231,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,4
+939,9020,3035251,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,6
 939,9020,3035261,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,7
 939,9020,3035271,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,Instituto Tecnologico El Paso,8
 939,25685,3035291,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,1,Quillacollo,El Paso,U.E. Molle Molle,1
@@ -11373,10 +11439,14 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 949,26319,3036881,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,U. E. Cohachaca Chico,3
 949,26319,3036891,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,U. E. Cohachaca Chico,4
 949,9027,3036921,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,2
+949,9027,3036931,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,3
 949,9027,3036941,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,4
 949,9027,3036961,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,6
+949,9027,3036971,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,7
 949,9027,3037001,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,10
+949,9027,3037011,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,11
 949,9027,3037021,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Rancho,Escuela Bolviana Americana,12
+3954,1,3037071,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Caramarca,Unidad Educativa Caramarca Collpa,2
 3955,1,3037101,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Chapi,Unidad Educativa 3 de Abril,1
 3955,1,3037111,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Chapi,Unidad Educativa 3 de Abril,2
 3955,1,3037121,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,2,Sipesipe,Mallco Chapi,Unidad Educativa 3 de Abril,3
@@ -11428,8 +11498,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 951,9030,3037681,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),16
 951,9030,3037701,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),18
 951,9030,3037711,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),19
+951,9030,3037731,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),21
 951,9030,3037741,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),22
 951,9030,3037751,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),23
+951,9030,3037761,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),24
 951,9030,3037781,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),26
 951,9030,3037791,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),27
 951,9030,3037801,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,Colegio Simon Bolivar (Tiquipaya),28
@@ -11450,6 +11522,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 951,25698,3037981,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,8
 951,25698,3037991,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,9
 951,25698,3038001,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Monseñor Salomón Romero,10
+951,32302,3038011,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Tiquipaya,U.E. Encanto Pampa,1
 952,9031,3038031,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,Escuela Toribio Claure,1
 952,9031,3038051,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,Escuela Toribio Claure,3
 952,9031,3038061,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Trojes,Escuela Toribio Claure,4
@@ -11497,6 +11570,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 953,9032,3038591,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Cuatro Esquinas (Tiquipaya),U.E. Santa María Magdalena Postel,8
 954,9033,3038601,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Chapisirca,Nucleo Educativo Chapisirca,1
 954,9033,3038631,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Chapisirca,Nucleo Educativo Chapisirca,4
+955,9034,3038651,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,Unidad Educativa Libertad,2
 955,9034,3038671,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,Unidad Educativa Libertad,4
 955,9034,3038681,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,Unidad Educativa Libertad,5
 955,9034,3038691,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,Unidad Educativa Libertad,6
@@ -11515,6 +11589,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 955,9034,3038871,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,Unidad Educativa Libertad,24
 955,9034,3038881,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,Unidad Educativa Libertad,25
 955,26151,3038891,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,U.E. Técnico Humanístico San Rafael,1
+955,26151,3038911,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,U.E. Técnico Humanístico San Rafael,3
 955,26460,3038921,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,U. E. Constantino I,1
 955,26460,3038931,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Ciudad del Niño,U. E. Constantino I,2
 956,9035,3038941,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Rumi Mayu (Tiquipaya),Escuela Eugenia Ravasco,1
@@ -11539,6 +11614,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 957,9036,3039171,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Escuela Isaac Attie,13
 957,9037,3039181,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,1
 957,9037,3039191,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,2
+957,9037,3039201,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,3
 957,9037,3039221,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,5
 957,9037,3039261,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,9
 957,9037,3039271,32,BOLIVIA,3,Cochabamba,28,0,9,Quillacollo                             ,3,Tiquipaya,Linde   Chiquicollo,Aldeas S.O.S,10
@@ -11569,6 +11645,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 959,25701,3039631,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,U.E. Soledad Rivas,2
 959,25701,3039641,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,U.E. Soledad Rivas,3
 959,25701,3039651,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,U.E. Soledad Rivas,4
+959,9053,3039701,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,Escuela Melchor Cuadros,5
 959,9053,3039711,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,Escuela Melchor Cuadros,6
 959,9053,3039721,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,Escuela Melchor Cuadros,7
 959,9053,3039731,32,BOLIVIA,3,Cochabamba,27,0,9,Quillacollo                             ,4,Vinto,Vinto,Escuela Melchor Cuadros,8
@@ -11922,6 +11999,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 971,1049,3044321,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Escuela German Busch,27
 971,1050,3044331,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,(Cárcel) Penitenciaria San Pedro (Sacaba),1
 971,1053,3044351,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Instituto Tecnico Sacaba (ITSA),1
+971,1053,3044361,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Instituto Tecnico Sacaba (ITSA),2
+971,1053,3044371,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Instituto Tecnico Sacaba (ITSA),3
 971,1056,3044381,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Republica de Italia,1
 971,1056,3044401,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Republica de Italia,3
 971,1056,3044421,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Republica de Italia,5
@@ -11972,6 +12051,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 971,1051,3044961,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,6
 971,1051,3044971,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,7
 971,1051,3044981,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,8
+971,1051,3044991,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,9
 971,1051,3045041,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,14
 971,1051,3045131,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,23
 971,1051,3045141,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Boliviano Británico,24
@@ -11983,6 +12063,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 971,1052,3045231,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Ulincate,7
 971,1052,3045241,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa Ulincate,8
 971,25580,3045361,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,U.E. Villa Clotilde,2
+971,25580,3045371,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,U.E. Villa Clotilde,3
 971,1054,3045391,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa 27 de Agosto,1
 971,1054,3045401,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa 27 de Agosto,2
 971,1054,3045411,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Sacaba,Unidad Educativa 27 de Agosto,3
@@ -12078,6 +12159,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 973,1009,3046521,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,1
 973,1009,3046531,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,2
 973,1009,3046631,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,12
+973,1009,3046641,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,13
 973,1009,3046681,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,17
 973,1009,3046701,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,19
 973,1009,3046741,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Quintanilla,Unidad Educativa Israelí El Abra,23
@@ -12207,6 +12289,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 976,1012,3048391,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Hernán Rivero Fiorilo,16
 976,1012,3048401,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Hernán Rivero Fiorilo,17
 976,1013,3048411,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Ceilab,1
+976,1013,3048421,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Ceilab,2
 976,1013,3048431,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Ceilab,3
 976,1013,3048441,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Ceilab,4
 976,1013,3048451,32,BOLIVIA,3,Cochabamba,23,0,10,Chapare                                 ,1,Sacaba,Esmeralda,Unidad Educativa Ceilab,5
@@ -12401,6 +12484,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1000,1033,3051491,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Jose (Villa Tunari),Escuela San Jose (V. Tunari),1
 1000,1033,3051501,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Jose (Villa Tunari),Escuela San Jose (V. Tunari),2
 1000,1033,3051521,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Jose (Villa Tunari),Escuela San Jose (V. Tunari),4
+1000,1033,3051531,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Jose (Villa Tunari),Escuela San Jose (V. Tunari),5
 1000,1033,3051541,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Jose (Villa Tunari),Escuela San Jose (V. Tunari),6
 1000,1033,3051551,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Jose (Villa Tunari),Escuela San Jose (V. Tunari),7
 1001,1034,3051571,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Samuzabeti,Escuela Samuzabeti,1
@@ -12418,7 +12502,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1002,1035,3051791,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Chipiriri,Colegio Fe y Alegria,7
 1002,1035,3051811,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Chipiriri,Colegio Fe y Alegria,9
 1003,1036,3051861,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Francisco,Escuela 27 de Mayo,2
+1003,1036,3051871,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Francisco,Escuela 27 de Mayo,3
 1003,1037,3051881,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Francisco,Unidad Educativa San Francisco Km 21,1
+1003,1037,3051901,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Francisco,Unidad Educativa San Francisco Km 21,3
+1003,1037,3051931,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,San Francisco,Unidad Educativa San Francisco Km 21,6
 1004,1037,3051941,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Isinuta,Escuela Elizardo Perez,1
 1004,1037,3051961,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Isinuta,Escuela Elizardo Perez,3
 1004,1037,3051991,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Isinuta,Escuela Elizardo Perez,6
@@ -12460,6 +12547,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1007,1047,3052491,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,La Estrella,Escuela La Estrella,2
 1007,1047,3052501,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,La Estrella,Escuela La Estrella,3
 1007,1047,3052511,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,La Estrella,Escuela La Estrella,4
+1008,1041,3052521,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Moleto Icoya,Unidad Educativa Moleto Icoya (V.Tunari),1
+1008,1041,3052541,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Moleto Icoya,Unidad Educativa Moleto Icoya (V.Tunari),3
 1008,1041,3052551,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Moleto Icoya,Unidad Educativa Moleto Icoya (V.Tunari),4
 2944,1042,3052571,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Nueva Aroma,Nucleo Escolar Nueva Aroma,1
 2944,1042,3052581,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Nueva Aroma,Nucleo Escolar Nueva Aroma,2
@@ -12491,9 +12580,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3726,1,3053001,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Norte Galilea,Unidad Educativa Villa Nueva,1
 3726,1,3053011,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Norte Galilea,Unidad Educativa Villa Nueva,2
 3726,1,3053021,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Norte Galilea,Unidad Educativa Villa Nueva,3
+3727,1,3053031,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Tocopilla,Unidad Educativa Tocopilla,1
 3727,1,3053051,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Tocopilla,Unidad Educativa Tocopilla,3
 3727,1,3053061,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Tocopilla,Unidad Educativa Tocopilla,4
 3852,1,3053071,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Primero de Mayo,Unidad Educativa 1ro de Mayo,1
+3852,1,3053091,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Primero de Mayo,Unidad Educativa 1ro de Mayo,3
 3852,1,3053101,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Primero de Mayo,Unidad Educativa 1ro de Mayo,4
 3853,1,3053121,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Uncia,Unidad Educativa Uncia,1
 4126,25543,3053181,32,BOLIVIA,3,Cochabamba,24,0,10,Chapare                                 ,3,Villa Tunari,Puerto Patiño,U.E. Puerto Patiño,1
@@ -12635,6 +12726,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1045,30075,3055431,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Chimoré,U.E. Marcelo Quiroga Santa Cruz,12
 1046,1226,3055441,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Entre Rios (Tacuaral),Nucleo Educativo Entre Rios Tacuaral,1
 1046,1226,3055451,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Entre Rios (Tacuaral),Nucleo Educativo Entre Rios Tacuaral,2
+1046,1226,3055471,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Entre Rios (Tacuaral),Nucleo Educativo Entre Rios Tacuaral,4
 1047,1227,3055491,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Puerto Aurora,Nucleo Escolar Puerto Aurora,2
 1047,1227,3055501,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Puerto Aurora,Nucleo Escolar Puerto Aurora,3
 3176,1241,3055511,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Cesar Zama (Chimore),Unidad Educativa Cesar Zama (Chimore),1
@@ -12647,6 +12739,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3176,1241,3055611,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Cesar Zama (Chimore),Unidad Educativa Cesar Zama (Chimore),11
 3665,1,3055691,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,San Andres,Unidad Educativa San Andrés,1
 3665,1,3055701,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,San Andres,Unidad Educativa San Andrés,2
+3665,1,3055711,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,San Andres,Unidad Educativa San Andrés,3
 4196,25643,3055761,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Senda  3,U.E. Senda III,1
 4196,25643,3055771,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Senda  3,U.E. Senda III,2
 4196,25643,3055781,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,4,Chimoré,Senda  3,U.E. Senda III,3
@@ -12680,6 +12773,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1050,25030,3056181,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,Unidad Educativa San Francisco De Asis,22
 1050,25031,3056281,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,Unidad Educativa Juana Azurduy De Padilla,2
 1050,25031,3056291,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,Unidad Educativa Juana Azurduy De Padilla,3
+1050,25031,3056311,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,Unidad Educativa Juana Azurduy De Padilla,5
 1050,25031,3056321,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,Unidad Educativa Juana Azurduy De Padilla,6
 1050,25031,3056351,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,Unidad Educativa Juana Azurduy De Padilla,9
 1050,25893,3056381,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,3
@@ -12691,7 +12785,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1050,25893,3056451,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,10
 1050,25893,3056481,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,13
 1050,25893,3056491,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,14
+1050,25893,3056501,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,15
 1050,25893,3056521,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,17
+1050,25893,3056531,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,18
 1050,25893,3056541,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U. E. San Antonio de Padua,19
 1050,30083,3056571,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U.E. Eben Ezer A,2
 1050,30083,3056581,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ivirgarzama,U.E. Eben Ezer A,3
@@ -12732,6 +12828,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1054,1232,3057031,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle de Sacta,Colegio Juan Pablo II (Sacta),22
 1054,1232,3057041,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle de Sacta,Colegio Juan Pablo II (Sacta),23
 1054,1232,3057051,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle de Sacta,Colegio Juan Pablo II (Sacta),24
+1055,1233,3057071,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle Hermoso,Escuela Toribio Claure (V. Hermoso),2
 1055,1233,3057111,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle Hermoso,Escuela Toribio Claure (V. Hermoso),6
 1055,1233,3057121,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle Hermoso,Escuela Toribio Claure (V. Hermoso),7
 1055,1233,3057131,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Valle Hermoso,Escuela Toribio Claure (V. Hermoso),8
@@ -12744,6 +12841,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1057,1235,3057261,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Mariposas,Colegio Marcelo Quiroga Santa Cruz,6
 1057,1235,3057271,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Mariposas,Colegio Marcelo Quiroga Santa Cruz,7
 1057,1235,3057301,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Mariposas,Colegio Marcelo Quiroga Santa Cruz,10
+1057,1235,3057311,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Mariposas,Colegio Marcelo Quiroga Santa Cruz,11
+1057,1235,3057331,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Mariposas,Colegio Marcelo Quiroga Santa Cruz,13
 1058,1236,3057371,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ayopaya (Pto. Villarroel),Escuela Ayopaya (P.Villaroel),2
 1058,1236,3057391,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Ayopaya (Pto. Villarroel),Escuela Ayopaya (P.Villaroel),4
 1059,26064,3057421,32,BOLIVIA,3,Cochabamba,24,0,12,Carrasco                                ,5,Puerto Villarroel,Cesar Zama (Pto. Villarroel),Centro Polifuncional Cesarzama,1
@@ -12787,6 +12886,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1042,25932,3058051,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Bulo Bulo,U.E. San Marcos,18
 1042,25932,3058061,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Bulo Bulo,U.E. San Marcos,19
 1042,25932,3058081,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Bulo Bulo,U.E. San Marcos,21
+1042,26470,3058091,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Bulo Bulo,U. E. Elizardo Pérez,1
 1042,26470,3058111,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Bulo Bulo,U. E. Elizardo Pérez,3
 1052,1212,3058121,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Isarzama,Escuela Eduardo Avaroa (Isarzama),1
 1052,1212,3058131,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Isarzama,Escuela Eduardo Avaroa (Isarzama),2
@@ -12854,6 +12954,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2804,1212,3058851,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),9
 2804,1212,3058871,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),11
 2804,1212,3058881,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),12
+2804,1212,3058891,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),13
 2804,1212,3058901,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),14
 2804,1212,3058911,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),15
 2804,1212,3058921,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Entre Rios,U. E. José Carrasco (Manco Kapac),16
@@ -12870,6 +12971,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4525,32219,3059031,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Gualberto Villarroel,U.E. Gualberto Villarroel,1
 4525,32219,3059041,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Gualberto Villarroel,U.E. Gualberto Villarroel,2
 4525,32219,3059051,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Gualberto Villarroel,U.E. Gualberto Villarroel,3
+4551,32245,3059061,32,BOLIVIA,3,Cochabamba,25,0,12,Carrasco                                ,6,Entre Ríos,Bella Vista,U.E. Max Fernández,1
+1060,1321,3059081,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,1,Mizque,Mizque,Colegio Pedro Ignacio Rivero,1
 1060,1321,3059161,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,1,Mizque,Mizque,Colegio Pedro Ignacio Rivero,9
 1060,1321,3059171,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,1,Mizque,Mizque,Colegio Pedro Ignacio Rivero,10
 1060,1321,3059201,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,1,Mizque,Mizque,Colegio Pedro Ignacio Rivero,13
@@ -12906,6 +13009,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1071,1314,3059671,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,2,Vila Vila,Vila Vila,Escuela Humberto Nogales,4
 1072,1315,3059691,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,2,Vila Vila,Siquimira,Nucleo Escolar Siquimira,2
 1072,1315,3059701,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,2,Vila Vila,Siquimira,Nucleo Escolar Siquimira,3
+1073,1316,3059721,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,2,Vila Vila,Sivingani,Nucleo Escolar Sivingani,2
 3965,1,3059731,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,2,Vila Vila,20 de Mayo,Unidad Educativa Pocotaica,1
 1074,1317,3059751,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,3,Alalay,Alalay,U. E. Abraham Flores Velasquez,2
 1075,1318,3059761,32,BOLIVIA,3,Cochabamba,25,0,13,Mizque                                  ,3,Alalay,Yana Khakha,Unidad Educativa Yana Khakha,1
@@ -13039,7 +13143,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1085,1412,3061831,32,BOLIVIA,3,Cochabamba,26,0,14,Punata                                  ,4,Tacachi,Tacachi,Unidad Educativa Tacachi,4
 1086,1413,3061851,32,BOLIVIA,3,Cochabamba,26,0,14,Punata                                  ,5,Villa Gualberto Villarroel,Villa Gualberto Villarroel (Cuchumuela),Escuela Cuchu Muela,2
 1086,1413,3061861,32,BOLIVIA,3,Cochabamba,26,0,14,Punata                                  ,5,Villa Gualberto Villarroel,Villa Gualberto Villarroel (Cuchumuela),Escuela Cuchu Muela,3
+1088,1501,3061881,32,BOLIVIA,3,Cochabamba,27,0,15,Bolivar                                 ,1,Bolivar,Bolivar,U.E. Simón Bolivar,1
 1088,1501,3061901,32,BOLIVIA,3,Cochabamba,27,0,15,Bolivar                                 ,1,Bolivar,Bolivar,U.E. Simón Bolivar,3
+1088,1501,3061911,32,BOLIVIA,3,Cochabamba,27,0,15,Bolivar                                 ,1,Bolivar,Bolivar,U.E. Simón Bolivar,4
 1089,1502,3061921,32,BOLIVIA,3,Cochabamba,27,0,15,Bolivar                                 ,1,Bolivar,Comuna,U.E. San Juan de La Comuna,1
 1090,1503,3061931,32,BOLIVIA,3,Cochabamba,27,0,15,Bolivar                                 ,1,Bolivar,Challoma,U.E. Challoma,1
 1092,1505,3061961,32,BOLIVIA,3,Cochabamba,27,0,15,Bolivar                                 ,1,Bolivar,Coyuma,Escuela Coyuma,1
@@ -13112,6 +13218,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 1106,1607,3063141,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Ibuelo,U.E. Ibuelo,11
 1106,1607,3063151,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Ibuelo,U.E. Ibuelo,12
 3397,1611,3063161,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Santa Rosa  Ñ,U. E. Marcelo Quiroga Santa Cruz,1
+3397,1611,3063171,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Santa Rosa  Ñ,U. E. Marcelo Quiroga Santa Cruz,2
 3397,1611,3063181,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Santa Rosa  Ñ,U. E. Marcelo Quiroga Santa Cruz,3
 3397,1611,3063191,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Santa Rosa  Ñ,U. E. Marcelo Quiroga Santa Cruz,4
 3397,1611,3063201,32,BOLIVIA,3,Cochabamba,24,0,16,Tiraque                                 ,2,Shinahota                               ,Santa Rosa  Ñ,U. E. Marcelo Quiroga Santa Cruz,5
@@ -19095,6 +19202,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,1004,7001301,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Mirette Sciaroni,9
 2234,1004,7001311,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Mirette Sciaroni,10
 2234,1004,7001321,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Mirette Sciaroni,11
+2234,1015,7001331,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Aponte Tineo (Esc. Gregorio Moreno),1
 2234,1015,7001341,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Aponte Tineo (Esc. Gregorio Moreno),2
 2234,1015,7001351,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Aponte Tineo (Esc. Gregorio Moreno),3
 2234,1015,7001361,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Esc. Aponte Tineo (Esc. Gregorio Moreno),4
@@ -19287,6 +19395,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,5005,7003311,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Bolivia,16
 2234,5005,7003331,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Bolivia,18
 2234,5005,7003341,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Villa Bolivia,19
+2234,11080,7003351,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Isuto,1
 2234,11080,7003361,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Isuto,2
 2234,11080,7003371,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Isuto,3
 2234,11080,7003381,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Isuto,4
@@ -19989,6 +20098,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25417,7010531,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,21
 2234,25417,7010541,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,22
 2234,25417,7010551,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,23
+2234,25417,7010561,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,24
 2234,25417,7010571,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,25
 2234,25417,7010581,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,26
 2234,25417,7010591,32,BOLIVIA,7,Santa Cruz,44,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Facultad de Ciencias Agricolas U.A.G.R.M.,27
@@ -20355,6 +20465,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,6000,7014381,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,20
 2234,6000,7014391,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,21
 2234,6000,7014401,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,22
+2234,6000,7014411,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,23
 2234,6000,7014421,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,24
 2234,6000,7014431,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,25
 2234,6000,7014441,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Sor Maria Cristina Perez,26
@@ -20506,6 +20617,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,26340,7015941,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,22
 2234,26340,7015951,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,23
 2234,26340,7015961,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,24
+2234,26340,7015971,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,25
 2234,26340,7015981,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,26
 2234,26340,7015991,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,27
 2234,26340,7016001,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U. E. 10 de Octubre,28
@@ -20924,10 +21036,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,11066,7020211,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,12
 2234,11066,7020221,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,13
 2234,11066,7020231,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,14
+2234,11066,7020241,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,15
 2234,11066,7020251,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,16
 2234,11066,7020261,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,17
 2234,11066,7020271,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,18
 2234,11066,7020281,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Zaragoza,19
+2234,11064,7020291,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,1
 2234,11064,7020301,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,2
 2234,11064,7020311,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,3
 2234,11064,7020321,32,BOLIVIA,7,Santa Cruz,46,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Los Cusis,4
@@ -21005,6 +21119,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,25419,7021051,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,2
 2234,25419,7021061,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,3
 2234,25419,7021071,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,4
+2234,25419,7021081,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,5
 2234,25419,7021091,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,6
 2234,25419,7021101,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,7
 2234,25419,7021111,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,U.E. Josefina Balsamo Los Pinos,8
@@ -23010,6 +23125,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,2001,7041291,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Seccional Monseñor Santiestevan,6
 2234,2001,7041301,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Seccional Monseñor Santiestevan,7
 2234,2027,7041311,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,1
+2234,2027,7041321,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,2
 2234,2027,7041331,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,3
 2234,2027,7041341,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,4
 2234,2027,7041351,32,BOLIVIA,7,Santa Cruz,45,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Romulo Herrera,5
@@ -25348,6 +25464,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2298,32048,7065461,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,Coliseo Municipal de San Miguel,3
 2298,32048,7065471,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,Coliseo Municipal de San Miguel,4
 2298,32048,7065481,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,Coliseo Municipal de San Miguel,5
+2298,32048,7065491,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,Coliseo Municipal de San Miguel,6
 2298,32048,7065501,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,Coliseo Municipal de San Miguel,7
 2298,32048,7065511,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,Coliseo Municipal de San Miguel,8
 2298,32097,7065521,32,BOLIVIA,7,Santa Cruz,54,0,3,Velasco                                 ,2,San Miguel,San Miguel,U. E. René Barrientos Ortuño,1
@@ -25901,6 +26018,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2337,22000,7071261,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,1
 2337,22000,7071271,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,2
 2337,22000,7071281,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,3
+2337,22000,7071291,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,4
 2337,22000,7071301,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,5
 2337,22000,7071311,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,6
 2337,22000,7071321,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,Portachuelo,Esc. Julio Landivar,7
@@ -25924,6 +26042,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2346,22008,7071531,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,San Ignacio (Sara),U.E. Milena Paz Antelo II,3
 2347,22009,7071541,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,San Juan de Palometillas,U.E. Marciano Melgar Sosa,1
 2347,22009,7071551,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,San Juan de Palometillas,U.E. Marciano Melgar Sosa,2
+2347,22009,7071561,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,San Juan de Palometillas,U.E. Marciano Melgar Sosa,3
 2347,22009,7071571,32,BOLIVIA,7,Santa Cruz,57,0,6,Sara                                    ,1,Portachuelo,San Juan de Palometillas,U.E. Marciano Melgar Sosa,4
 2338,22002,7071581,32,BOLIVIA,7,Santa Cruz,52,0,6,Sara                                    ,2,Santa Rosa,Asubí,Esc. Pasto Mercado Quiroga,1
 2338,22002,7071591,32,BOLIVIA,7,Santa Cruz,52,0,6,Sara                                    ,2,Santa Rosa,Asubí,Esc. Pasto Mercado Quiroga,2
@@ -26599,6 +26718,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2442,21013,7079531,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,U.E. Maximiliano Kolbe,19
 2442,21013,7079541,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,U.E. Maximiliano Kolbe,20
 2442,21013,7079551,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,U.E. Maximiliano Kolbe,21
+2442,21013,7079561,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,U.E. Maximiliano Kolbe,22
 2442,21013,7079571,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,U.E. Maximiliano Kolbe,23
 2442,21044,7079581,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,Col. Unidad Educativa La Esperanza,1
 2442,21044,7079591,32,BOLIVIA,7,Santa Cruz,57,0,10,Obispo Santistéban,1,Montero,Montero,Col. Unidad Educativa La Esperanza,2
@@ -27065,6 +27185,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4223,25849,7084471,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,1,Concepción,Integracion A,U. E. Eduardo Abaroa,2
 2475,20007,7084481,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,2,San Javier                              ,San Javier (Ñ.de Chavez),U.E. Adolfo Burton,1
 2475,20007,7084501,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,2,San Javier                              ,San Javier (Ñ.de Chavez),U.E. Adolfo Burton,3
+2475,20007,7084511,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,2,San Javier                              ,San Javier (Ñ.de Chavez),U.E. Adolfo Burton,4
 2475,20007,7084521,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,2,San Javier                              ,San Javier (Ñ.de Chavez),U.E. Adolfo Burton,5
 2475,20007,7084531,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,2,San Javier                              ,San Javier (Ñ.de Chavez),U.E. Adolfo Burton,6
 2475,20007,7084541,32,BOLIVIA,7,Santa Cruz,53,0,11,Ñuflo De Chávez,2,San Javier                              ,San Javier (Ñ.de Chavez),U.E. Adolfo Burton,7
@@ -27307,6 +27428,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2490,12000,7087261,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,2
 2490,12000,7087271,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,3
 2490,12000,7087281,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,4
+2490,12000,7087291,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,5
 2490,12000,7087301,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,6
 2490,12000,7087311,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,7
 2490,12000,7087321,32,BOLIVIA,7,Santa Cruz,54,0,12,Angel Sandoval                          ,1,San Matías,San Matías,Esc. U.E.Tecnica Vocacional,8
@@ -27560,6 +27682,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2518,17001,7090001,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,11
 2518,17001,7090011,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,12
 2518,17001,7090021,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,13
+2518,17001,7090031,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,14
 2518,17001,7090041,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,15
 2518,17001,7090051,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,16
 2518,17001,7090061,32,BOLIVIA,7,Santa Cruz,53,0,15,Guarayos                                ,1,Ascención de Guarayos,Ascención (Guarayos),Esc. Esteban Gebard,17
@@ -28751,6 +28874,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2596,32022,8011871,32,BOLIVIA,8,Beni,59,0,5,Moxos                                   ,1,San Ignacio,San Ignacio,U.E. Fuente de Vida,6
 2596,32022,8011881,32,BOLIVIA,8,Beni,59,0,5,Moxos                                   ,1,San Ignacio,San Ignacio,U.E. Fuente de Vida,7
 2596,32022,8011891,32,BOLIVIA,8,Beni,59,0,5,Moxos                                   ,1,San Ignacio,San Ignacio,U.E. Fuente de Vida,8
+2597,1,8011901,32,BOLIVIA,8,Beni,59,0,5,Moxos                                   ,1,San Ignacio,San Ignacito,Esc. Central San Ignacito,1
 2601,1,8011931,32,BOLIVIA,8,Beni,59,0,5,Moxos                                   ,1,San Ignacio,Desengaño,Esc. El Desengaño,1
 2827,1,8012051,32,BOLIVIA,8,Beni,59,0,5,Moxos                                   ,1,San Ignacio,Monte Mae,Esc. Monte Mae,1
 2624,1,8012231,32,BOLIVIA,8,Beni,59,0,6,Marbán,1,Loreto,Loreto,Esc. Perfecta Vda. De Bejarano,1
