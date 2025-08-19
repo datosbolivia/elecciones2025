@@ -13,6 +13,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4536,32229,2070712,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Nogal,U.E. Nogal,1
 466,32265,2078732,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Irupana,U.E. 5 de Mayo,1
 469,2652,2078802,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Chicaloma,U.E. Chicaloma,4
+474,2656,2078902,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Laza,U.E. Victor Centellas,1
+474,2656,2078912,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Laza,U.E. Victor Centellas,2
+4548,32241,2086402,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Tocaña,U.E. Tocaña,1
 4558,32253,2086412,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Cusilluni,U.E. Villa Rosario,1
 3474,1,3052922,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San José de Angosta,Unidad Educativa San Jose de Angosta,2
 4029,25357,3053162,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San Benito,U.E. San Benito,1
@@ -145,6 +148,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2369,4018,7072902,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,La Brecha,U.E. Manuel Pikasuti,4
 2369,4018,7072912,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,La Brecha,U.E. Manuel Pikasuti,5
 2370,4028,7072922,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,1
+2370,4028,7072932,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,2
 2370,4028,7072942,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,3
 2370,4028,7072952,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,4
 2370,4028,7072962,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,5
@@ -177,6 +181,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4040,25371,7073252,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Yapiroa,U.E. Yapiroa,1
 4040,25371,7073262,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Yapiroa,U.E. Yapiroa,2
 3568,1,7073832,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,3,Cabezas,Yatirenda,U.E. Yateirenda,1
+3568,1,7073842,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,3,Cabezas,Yatirenda,U.E. Yateirenda,2
 3569,1,7073852,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,3,Cabezas,Cotoca,U.E. Cotoca,1
 3064,4065,7074062,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,4,Cuevo,Huaraca,U.E Huaraca,1
 3572,1,7074082,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,4,Cuevo,Itakuatia,U.E. Itacuatia,1
