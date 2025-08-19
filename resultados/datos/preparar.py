@@ -55,4 +55,3 @@ def preparar_recintos():
 base = os.path.dirname(__file__)
 preparar_recintos()
 preparar_resultados()
-preparar_progreso()
