@@ -42,7 +42,7 @@ def preparar_resultados():
 
 
 def preparar_recintos():
-    recintos = gpd.read_file("../../geo/2025/recintos.gpkg")
+    recintos = gpd.read_file("./geo/2025/recintos.gpkg")
     recintos["c"] = identificar(recintos, "asiento", "recinto")
     recintos[["c", "geometry"]].to_file(os.path.join(base, "recintos.geojson"))
 
