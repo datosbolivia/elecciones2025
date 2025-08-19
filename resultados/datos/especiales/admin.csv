@@ -166,8 +166,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3564,1,7073142,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Pueblo Nuevo Parapeti,U.E. Juan de la Cruz Miranda,1
 3564,1,7073152,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Pueblo Nuevo Parapeti,U.E. Juan de la Cruz Miranda,2
 3565,1,7073162,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Okita,Esc. Okita,1
+3566,1,7073172,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,25 de Mayo,U.E. 12 de Abril,1
 3567,1,7073182,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Nueva Esperanza,U.E. Bonifacio Barrientos Iyambae,1
 3972,1,7073192,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Joseravi,U.E. Joseravi,1
+4036,25367,7073202,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Akae,U.E. Pedro Ramos,1
 4036,25367,7073212,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Akae,U.E. Pedro Ramos,2
 4037,25368,7073222,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Capiguazuti,U.E. 24 de Septiembre,1
 4038,25369,7073232,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Machipo,U.E. Machipo,1
@@ -297,6 +299,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2523,7005,7090752,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Monseñor Salvatierra,Esc. Secc. Mon. Salvatierra,1
 3604,1,7090762,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Santa Teresita (Cururu),U.E. 1ro de abril,1
 2525,7008,7090892,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,1
+2525,7008,7090902,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,2
 2525,7008,7090912,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,3
 2525,7008,7090922,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,4
 2525,7008,7090932,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,3,El Puente,Yotaú,Esc. San Jose De Yotau,5
