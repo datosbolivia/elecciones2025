@@ -14,6 +14,7 @@ sidebar: false
     min-height: 100vh;
   }
   .header {
+    color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -83,10 +84,11 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
 ```
 
 ```js
-const gh = "https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/resultados/datos/"
+const gh =
+  "https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/resultados/datos/";
 const recintos = await d3.json(`${gh}recintos.geojson`);
 const resultados = await d3.json(`${gh}resultados.json`);
-const timestamp = await fetch(`${gh}timestamp`).then(r => r.text());
+const timestamp = await fetch(`${gh}timestamp`).then((r) => r.text());
 const dateFormatter = new Intl.DateTimeFormat("es", {
   year: "numeric",
   month: "long",
@@ -96,7 +98,7 @@ const dateFormatter = new Intl.DateTimeFormat("es", {
   timeZone: "UTC",
 });
 const timestamp_string = dateFormatter.format(new Date(timestamp));
-const progreso = await fetch(`${gh}progreso`).then(r => r.text());
+const progreso = await fetch(`${gh}progreso`).then((r) => r.text());
 let fotos = {
   AP: await FileAttachment("imagenes/ap.webp").url(),
   "LYP-ADN": await FileAttachment("imagenes/lyp-adn.webp").url(),
@@ -166,12 +168,20 @@ const recintos_hover = {
     "circle-color": "rgba(0,0,0,0)",
     "circle-radius": [
       "interpolate",
-      ["exponential", 2],
+      ["exponential", 1.2],
       ["zoom"],
-      0,
-      5,
+      6,
+      10,
+      10,
+      14,
+      12,
       18,
-      15,
+      14,
+      22,
+      16,
+      26,
+      18,
+      30,
     ],
   },
 };
@@ -297,7 +307,23 @@ map.on("load", function () {
     type: "circle",
     source: "recintos",
     paint: {
-      "circle-radius": 3,
+      "circle-radius": [
+        "interpolate",
+        ["exponential", 1.4],
+        ["zoom"],
+        6,
+        2,
+        10,
+        4,
+        12,
+        6,
+        14,
+        9,
+        16,
+        12,
+        18,
+        16,
+      ],
       "circle-color": colores_expresion,
       "circle-opacity": 0.5,
     },
