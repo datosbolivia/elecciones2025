@@ -3343,6 +3343,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,601,2016121,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  Pablo Iturri Jurado B,29
 729,607,2016141,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,1
 729,607,2016151,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,2
+729,607,2016161,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,3
 729,607,2016171,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,4
 729,607,2016181,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,5
 729,607,2016191,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E.  La Merced B,6
@@ -3617,6 +3618,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 729,802,2019021,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,6
 729,802,2019031,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,7
 729,802,2019041,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,8
+729,802,2019051,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,9
 729,802,2019071,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,11
 729,802,2019081,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,12
 729,802,2019091,32,BOLIVIA,2,La Paz,6,0,1,Murillo                                 ,1,Nuestra Señora de La Paz,Nuestra Señora de La Paz,U.E. Gral. José de San Martin,13
@@ -4823,6 +4825,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,2607,2031911,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,5
 820,2607,2031921,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,6
 820,2607,2031941,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,8
+820,2607,2031951,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,9
 820,2607,2031961,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,10
 820,2607,2031971,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,11
 820,2607,2031981,32,BOLIVIA,2,La Paz,11,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Vicente Tejada,12
@@ -5874,10 +5877,12 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,102,2043001,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,14
 820,102,2043011,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,15
 820,102,2043021,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,16
+820,102,2043041,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,18
 820,102,2043051,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,19
 820,102,2043061,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,20
 820,102,2043071,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,21
 820,102,2043081,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,22
+820,102,2043091,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,23
 820,102,2043101,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,24
 820,102,2043111,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,25
 820,102,2043121,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. San Vicente de Paul Fe y Alegría,26
@@ -5957,6 +5962,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,2301,2043911,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,21
 820,2301,2043921,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,22
 820,2301,2043931,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,23
+820,2301,2043941,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,24
 820,2301,2043951,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,25
 820,2301,2043961,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,26
 820,2301,2043971,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. Brasil,27
@@ -6039,6 +6045,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,2105,2044811,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,27
 820,2105,2044821,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,28
 820,2105,2044831,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,29
+820,2105,2044841,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,30
 820,2105,2044851,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,31
 820,2105,2044861,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,32
 820,2105,2044871,32,BOLIVIA,2,La Paz,13,0,1,Murillo                                 ,5,El Alto,El Alto,U. E. República Popular de China,33
@@ -6228,6 +6235,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,2601,2046941,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,26
 820,2601,2046951,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,27
 820,2601,2046961,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,28
+820,2601,2046981,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,30
 820,2601,2046991,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,31
 820,2601,2047001,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,32
 820,2601,2047011,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. José Antonio Paredes Candia,33
@@ -6375,6 +6383,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,302,2048521,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,4
 820,302,2048531,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,5
 820,302,2048541,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,6
+820,302,2048551,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,7
 820,302,2048561,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,8
 820,302,2048571,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,9
 820,302,2048581,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Illimani,10
@@ -6815,6 +6824,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,501,2053221,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,18
 820,501,2053231,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,19
 820,501,2053241,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,20
+820,501,2053251,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,21
 820,501,2053261,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,22
 820,501,2053271,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,23
 820,501,2053281,32,BOLIVIA,2,La Paz,10,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Elizardo Perez,24
@@ -7399,6 +7409,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 820,1306,2059541,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,3
 820,1306,2059551,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,4
 820,1306,2059561,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,5
+820,1306,2059571,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,6
 820,1306,2059581,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,7
 820,1306,2059591,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,8
 820,1306,2059601,32,BOLIVIA,2,La Paz,12,0,1,Murillo                                 ,5,El Alto,El Alto,U.E. Topater,9
@@ -21988,6 +21999,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2234,7013,7024381,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 18 de Marzo,27
 2234,7013,7024391,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 18 de Marzo,28
 2234,7013,7024401,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 18 de Marzo,29
+2234,7013,7024411,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. 18 de Marzo,30
 2234,7014,7024421,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fausto Medrano,1
 2234,7014,7024431,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fausto Medrano,2
 2234,7014,7024441,32,BOLIVIA,7,Santa Cruz,47,0,1,Andrés Ibáñez,1,Santa Cruz de La Sierra,Santa Cruz de la Sierra,Col. Fausto Medrano,3
