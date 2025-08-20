@@ -7,6 +7,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3204,8018,2068812,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Yolosani,U.E. Yolosani,1
 3225,8016,2068822,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,1
 3225,8016,2068832,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,2
+3225,8016,2068842,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,3
 3451,1,2068872,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Alto Chijini,U.E. Alto Chijini,1
 3610,1,2068882,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Trapicheponte,U.E. Trapicheponte,1
 4415,26155,2068892,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Challana Pampa,U.E. Challana,1
@@ -17,6 +18,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3453,1,2069882,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,4
 3453,1,2069892,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,5
 285,2512,2070062,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Tomachi,U.E. Tomachi,1
+285,2512,2070072,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Tomachi,U.E. Tomachi,2
 285,2512,2070082,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Tomachi,U.E. Tomachi,3
 4547,32240,2070142,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Uyapi,U.E. Uyapi,1
 4547,32240,2070152,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Uyapi,U.E. Uyapi,2
