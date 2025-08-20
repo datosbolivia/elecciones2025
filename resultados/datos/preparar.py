@@ -23,18 +23,31 @@ def preparar_resultados():
             "n": recinto_nombres[recinto["codigo"].values[0]],
             "g": ganador.index[0],
             "r": resultados.to_dict(),
+            "p": recinto_participacion[recinto["codigo"].values[0]],
         }
 
-    admin, validos = [
+    admin, validos, participacion = [
         pd.read_csv(os.path.join(base, ELECCION, f"{i}.csv"))
-        for i in ["admin", "validos"]
+        for i in ["admin", "validos", "participacion"]
     ]
-    for df in [admin, validos]:
+    for df in [admin, validos, participacion]:
         df["codigo"] = identificar(df, "CodigoLocalidad", "CodigoRecinto")
 
     recinto_nombres = admin.groupby("codigo").NombreRecinto.first().to_dict()
+
+    columnas_participacion = {
+        "TotalVotoNulo": "n",
+        "VotoBlanco": "b",
+        "VotoValido": "v",
+    }
+    recinto_participacion = (
+        participacion.rename(columns=columnas_participacion)
+        .groupby("codigo")[list(columnas_participacion.values())]
+        .sum()
+        .to_dict(orient="index")
+    )
     data = {
-        codigo: procesarRecinto(recinto) for codigo, recinto in df.groupby("codigo")
+        codigo: procesarRecinto(recinto) for codigo, recinto in validos.groupby("codigo")
     }
 
     with open(os.path.join(base, "resultados.json"), "w") as f:
