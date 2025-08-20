@@ -1,17 +1,23 @@
 CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartamento,NombreDepartamento,CodigoCircunscripcionU,CodigoCircunscripcionE,CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,NombreLocalidad,NombreRecinto,NumeroMesa
 267,25733,2068682,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Carura,U.E. Carura B,1
 267,25733,2068702,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Carura,U.E. Carura B,3
+3204,8018,2068812,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Yolosani,U.E. Yolosani,1
 3225,8016,2068822,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,1
 3225,8016,2068832,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,2
 3451,1,2068872,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Alto Chijini,U.E. Alto Chijini,1
+3610,1,2068882,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Trapicheponte,U.E. Trapicheponte,1
 4415,26155,2068892,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Challana Pampa,U.E. Challana,1
+4495,32128,2068902,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,San Juan de Kelequelera,U.E. Kelequelera,1
 4546,32239,2068912,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Witoponte,U.E. 14 de Septiembre de Witoponte,1
 304,2506,2069402,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,6,Tipuani,Cotapampa,U.E. Nestor Paz Zamora,1
+3453,1,2069882,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,4
+3453,1,2069892,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,5
 285,2512,2070062,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Tomachi,U.E. Tomachi,1
 4547,32240,2070142,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Uyapi,U.E. Uyapi,1
 4533,32227,2070692,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Pucasucho,U.E. Pucasucho,1
 4534,32228,2070702,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Sarayoj,U.E. Sarayoj,1
 4536,32229,2070712,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Nogal,U.E. Nogal,1
+4562,32266,2077402,32,BOLIVIA,2,La Paz,0,1,10,Inquisivi                               ,3,Cajuata,Lujmani,U.E. Lujmani,1
 466,32265,2078732,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Irupana,U.E. 5 de Mayo,1
 469,2652,2078772,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Chicaloma,U.E. Chicaloma,1
 469,2652,2078782,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Chicaloma,U.E. Chicaloma,2
@@ -27,6 +33,8 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4549,32243,2079952,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San Pedro de Cogotay,U.E. Cogotay,1
 4548,32241,2086402,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Tocaña,U.E. Tocaña,1
 4558,32253,2086412,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Cusilluni,U.E. Villa Rosario,1
+635,1060,2087182,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,1
+3466,1,2087222,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,El Tigre (Río Madre de Dios),Unidad Educativa El Tigre,1
 4599,32344,2087272,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Comunidad Originaria Tsimane Puerto Ruso Undumo,U.E. Puerto Ruso,1
 628,2542,2087472,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,2
 628,2542,2087482,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,3
@@ -34,6 +42,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 628,2542,2087502,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,5
 628,2542,2087512,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,6
 3470,1,2087532,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Buena Vista,Unidad Educativa Central Buena Vista,2
+3383,1,2087772,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Sayhuani,U.E. Sayhuani,1
+3623,1,2087802,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Moyapampa,Escuela Central Moyapampa,1
+3625,1,2087822,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Atique,U.E. Atique,1
+4527,32220,2087862,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Tacachillani,U.E. Tacachillani,1
 3474,1,3052922,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San José de Angosta,Unidad Educativa San Jose de Angosta,2
 4029,25357,3053162,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San Benito,U.E. San Benito,1
 4122,25539,3053172,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,Yuracare Limo del Isiboro,U.E. Limo,1
