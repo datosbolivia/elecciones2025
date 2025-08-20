@@ -1,5 +1,6 @@
 CodigoLocalidad,CodigoRecinto,CodigoMesa,InscritosHabilitados,VotoValido,VotoBlanco,VotoNuloDirecto,VotoNuloDeclinacion,TotalVotoNulo,VotoEmitido,VotoValidoReal,VotoEmitidoReal
 267,25733,2068682,240,128,43,49,0,49,220,128,220
+267,25733,2068692,240,139,44,32,0,32,215,139,215
 267,25733,2068702,227,103,50,52,0,52,205,103,205
 272,25774,2068712,67,45,8,6,0,6,59,45,59
 286,2518,2068762,240,138,60,28,6,34,232,138,232
