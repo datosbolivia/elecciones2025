@@ -478,15 +478,19 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2605,1,8011962,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San Lorenzo de Moxos,Esc. Ovidio Roca C.,1
 2605,1,8011972,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San Lorenzo de Moxos,Esc. Ovidio Roca C.,2
 2605,1,8011982,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San Lorenzo de Moxos,Esc. Ovidio Roca C.,3
+2608,1,8011992,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San José de Patrocinio,Esc. San Jose De Patrocinio,1
 2609,1,8012002,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Santisima Trinidad,Escuela Santísima Trinidad,1
 2609,1,8012012,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Santisima Trinidad,Escuela Santísima Trinidad,2
 2610,1,8012022,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Puerto San Lorenzo de Moxos,Esc. Pto. San Lorenzo,1
 2611,1,8012032,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San Miguelito del Isiboro,Esc. San Miguelito Isiboro,1
 2824,1,8012042,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Litoral,Esc. Litoral,1
+3108,1,8012062,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San Antonio de Imose,Esc. San Antonio De Imose,1
 3110,1,8012072,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Mercedes de Lojojota,Esc. Mercedes De Lojojota,1
+3127,1,8012082,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Trinidacito,Esc. Trinidacito,1
 3406,1,8012092,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Bermeo,Escuela De Bermeo,1
 3757,1,8012102,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Oromomo,Esc. Oromomo,1
 3757,1,8012112,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Oromomo,Esc. Oromomo,2
+3875,1,8012122,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San Bernardo,U.E. San Bernardo,1
 4358,26060,8012132,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,San José del Secure,U.E. San José del Secure,1
 4595,32337,8012142,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,1,San Ignacio,Comunidad Indígena San Ramoncito Rio Ichoa Tipnis,U.E. San Mateo de San Ramoncito,1
 2602,1,8012152,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,2,TIOC Territorio Indígena Multiétnico - TIM,Santa Rosa Rio Apere,Esc. Central Santa Rosa,1
@@ -497,6 +501,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2886,1,8012202,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,2,TIOC Territorio Indígena Multiétnico - TIM,Puerto San Borja,Esc. Puerto San Borja,1
 3106,1,8012212,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,2,TIOC Territorio Indígena Multiétnico - TIM,San José del Cabitu,Esc. San Jose Del Cabitu,1
 3106,1,8012222,32,BOLIVIA,8,Beni,0,6,5,Moxos                                   ,2,TIOC Territorio Indígena Multiétnico - TIM,San José del Cabitu,Esc. San Jose Del Cabitu,2
+2630,1,8012292,32,BOLIVIA,8,Beni,0,6,6,Marbán,1,Loreto,Gundonovia,Esc. Gundonovia,1
+2747,1,8012322,32,BOLIVIA,8,Beni,0,6,6,Marbán,1,Loreto,San Pablo del Isiboro,Esc. San Pablo Isiboro,1
+3878,1,8012362,32,BOLIVIA,8,Beni,0,6,6,Marbán,1,Loreto,Villa El Carmen del Remanzo,U.E. Villa El Carmen del Remanzo,1
 2621,1,8012932,32,BOLIVIA,8,Beni,0,6,7,Mamoré,1,San Joaquín,Puerto Ustarez,Esc. Puerto Ustarez,1
 3079,1,8012942,32,BOLIVIA,8,Beni,0,6,7,Mamoré,1,San Joaquín,Moré Monte Azul,Esc. More Monte Azul,1
 2619,1,8013102,32,BOLIVIA,8,Beni,0,6,7,Mamoré,3,Puerto Siles,Santa Rosa de Vigo,Esc. Santa Rosa,1
