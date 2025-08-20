@@ -25,6 +25,16 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 285,2512,2070082,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Tomachi,U.E. Tomachi,3
 4547,32240,2070142,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Uyapi,U.E. Uyapi,1
 4547,32240,2070152,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,8,Teoponte,Uyapi,U.E. Uyapi,2
+309,2536,2070452,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Inca,U.E. Inca,1
+309,2536,2070462,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Inca,U.E. Inca,2
+313,2529,2070532,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Puchahui,U.E. Puchahui,1
+313,2529,2070542,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Puchahui,U.E. Puchahui,2
+3454,1,2070602,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Correo,U. E. Correo,1
+3454,1,2070612,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Correo,U. E. Correo,2
+3455,1,2070622,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Munaypata,U. E. Munaypata,1
+3455,1,2070632,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Munaypata,U. E. Munaypata,2
+4529,32223,2070662,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Irimo,U.E. Irimo,1
+4530,32224,2070672,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Santo Domingo,U.E. Santo Domingo,1
 4533,32227,2070692,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Pucasucho,U.E. Pucasucho,1
 4534,32228,2070702,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Sarayoj,U.E. Sarayoj,1
 4536,32229,2070712,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Nogal,U.E. Nogal,1
@@ -51,6 +61,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4548,32241,2086402,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Tocaña,U.E. Tocaña,1
 4558,32253,2086412,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Cusilluni,U.E. Villa Rosario,1
 631,2576,2087142,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Tahua,U.E. Tahua,1
+633,2577,2087172,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Carmen del Emero,Sede Del Carmen del Emero,1
 635,1060,2087182,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,1
 635,1060,2087192,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,2
 3466,1,2087222,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,El Tigre (Río Madre de Dios),Unidad Educativa El Tigre,1
@@ -65,21 +76,29 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 628,2542,2087512,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,6
 3470,1,2087522,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Buena Vista,Unidad Educativa Central Buena Vista,1
 3470,1,2087532,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Buena Vista,Unidad Educativa Central Buena Vista,2
+3471,1,2087542,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,San Miguel,Unidad Educativa San Miguel,1
 638,2418,2087582,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chari,Escuela Seccional Chari,1
 639,25768,2087592,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,1
 639,25768,2087602,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,2
 639,25768,2087612,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,3
 639,25768,2087622,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,4
 639,25768,2087632,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,5
+640,25769,2087652,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chulina (San Miguel),U. E. Chullina,2
+641,25589,2087662,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Carijana,U. E. Carijana,1
 642,2385,2087672,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Gral. Ramón Gonzales,U.E. Gral. Ramon Gonzales,1
 643,25770,2087682,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Santa Rosa de Caata,U. E. Yawar Mallku,1
 643,25770,2087692,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Santa Rosa de Caata,U. E. Yawar Mallku,2
 3235,8014,2087722,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Apacheta,Unidad Educativa Apacheta,1
+3313,25590,2087732,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Soto Pata,U.E. Soto Pata,1
+3313,25590,2087742,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Soto Pata,U.E. Soto Pata,2
 3347,25767,2087752,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarka,U. E. Llachuani,1
 3383,1,2087772,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Sayhuani,U.E. Sayhuani,1
+3472,1,2087782,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Kallurhuaya,Unidad Educativa Kallurhuaya,1
+3472,1,2087792,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Kallurhuaya,Unidad Educativa Kallurhuaya,2
 3623,1,2087802,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Moyapampa,Escuela Central Moyapampa,1
 3625,1,2087822,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Atique,U.E. Atique,1
 4464,26496,2087832,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Niño Corin,U.E. Niño Corin,1
+4465,26497,2087842,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Florida,U.E. Florida,1
 4521,32215,2087852,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Callinsani,Centro Comunal Callinsani,1
 4527,32220,2087862,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Tacachillani,U.E. Tacachillani,1
 4528,32222,2087872,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chuxña Quta,Centro Comunal Chuxña Quta,1
@@ -89,6 +108,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4583,32295,2087912,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Jotahoco,U.E. Jotahoco,1
 644,25772,2087922,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Curva,U. E. San Pedro De Curva,1
 645,2388,2087932,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Puli,Sede Comunal,1
+646,2425,2087942,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Kapna,Escuela Kapna,1
 647,25771,2087952,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Caalaya,U.E. San Juan de Caalaya,1
 648,2419,2087962,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Upinuaya,Nucleo Escolar Upinuaya,1
 649,2422,2087972,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Lagunillas,Sede Social,1
