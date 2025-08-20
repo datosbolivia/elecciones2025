@@ -1,6 +1,8 @@
 CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartamento,NombreDepartamento,CodigoCircunscripcionU,CodigoCircunscripcionE,CodigoProvincia,NombreProvincia,CodigoSeccion,NombreMunicipio,NombreLocalidad,NombreRecinto,NumeroMesa
 267,25733,2068682,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Carura,U.E. Carura B,1
 267,25733,2068702,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Carura,U.E. Carura B,3
+286,2518,2068772,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Pajonal Vilaque,Escuela Pajonal Vilaque,2
+287,2515,2068782,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Mariapu,Esc. Mariapu,1
 3204,8018,2068812,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Yolosani,U.E. Yolosani,1
 3225,8016,2068822,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,1
 3225,8016,2068832,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,2
@@ -29,6 +31,10 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 484,2664,2079582,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Covendo,Esc. Franz Tamayo,2
 487,2666,2079662,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,1
 487,2666,2079672,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,2
+4412,26152,2079892,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Villa Concepción,U.E. Villa Concepción,1
+4412,26152,2079902,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Villa Concepción,U.E. Villa Concepción,2
+4539,32232,2079922,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San José,U.E. San José,1
+4539,32232,2079932,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San José,U.E. San José,2
 4542,32235,2079942,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Playa Verde,U.E. Arancibia de Moseténes,1
 4549,32243,2079952,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San Pedro de Cogotay,U.E. Cogotay,1
 4548,32241,2086402,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Tocaña,U.E. Tocaña,1
@@ -36,16 +42,24 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 635,1060,2087182,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,1
 3466,1,2087222,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,El Tigre (Río Madre de Dios),Unidad Educativa El Tigre,1
 4599,32344,2087272,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Comunidad Originaria Tsimane Puerto Ruso Undumo,U.E. Puerto Ruso,1
+628,2542,2087462,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,1
 628,2542,2087472,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,2
 628,2542,2087482,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,3
 628,2542,2087492,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,4
 628,2542,2087502,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,5
 628,2542,2087512,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,6
+3470,1,2087522,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Buena Vista,Unidad Educativa Central Buena Vista,1
 3470,1,2087532,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Buena Vista,Unidad Educativa Central Buena Vista,2
+638,2418,2087582,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chari,Escuela Seccional Chari,1
+639,25768,2087612,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,3
+642,2385,2087672,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Gral. Ramón Gonzales,U.E. Gral. Ramon Gonzales,1
+3235,8014,2087722,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Apacheta,Unidad Educativa Apacheta,1
+3347,25767,2087752,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarka,U. E. Llachuani,1
 3383,1,2087772,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Sayhuani,U.E. Sayhuani,1
 3623,1,2087802,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Moyapampa,Escuela Central Moyapampa,1
 3625,1,2087822,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Atique,U.E. Atique,1
 4527,32220,2087862,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Tacachillani,U.E. Tacachillani,1
+647,25771,2087952,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Caalaya,U.E. San Juan de Caalaya,1
 3474,1,3052922,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San José de Angosta,Unidad Educativa San Jose de Angosta,2
 4029,25357,3053162,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San Benito,U.E. San Benito,1
 4122,25539,3053172,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,Yuracare Limo del Isiboro,U.E. Limo,1
