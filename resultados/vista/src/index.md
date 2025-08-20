@@ -31,7 +31,8 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
     z-index:4;
     top: 0;
     left: 0;
-    height: 130px;
+    height: 110px;
+    padding: 10px;
     .title {
       font-family: serif;
       font-size: 1.5rem;
@@ -54,6 +55,10 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
       }
     }
     .cambio_input {
+      form {
+        min-height: 0 !important;
+        margin: 7px 0 0 0 !important;
+      }
       form div {
         display: flex;
         align-items: end;
@@ -83,7 +88,7 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
   }
   #mapa {
     position: absolute; 
-    top: 130px; 
+    top: 110px; 
     bottom: 0; 
     width: 100%;
   }
