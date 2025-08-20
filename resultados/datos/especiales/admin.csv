@@ -39,6 +39,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 484,2664,2079582,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Covendo,Esc. Franz Tamayo,2
 487,2666,2079662,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,1
 487,2666,2079672,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,2
+487,2666,2079682,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,3
 4412,26152,2079892,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Villa Concepción,U.E. Villa Concepción,1
 4412,26152,2079902,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Villa Concepción,U.E. Villa Concepción,2
 4539,32232,2079922,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San José,U.E. San José,1
@@ -48,10 +49,13 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4552,32246,2079962,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San Juan de Pojponendo,U.E. San Juan de Pojponendo,1
 4548,32241,2086402,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Tocaña,U.E. Tocaña,1
 4558,32253,2086412,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Cusilluni,U.E. Villa Rosario,1
+631,2576,2087142,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Tahua,U.E. Tahua,1
 635,1060,2087182,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,1
 635,1060,2087192,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,2
 3466,1,2087222,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,El Tigre (Río Madre de Dios),Unidad Educativa El Tigre,1
+3467,1,2087232,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Macahua,Unidad Educativa 10 de Abril,1
 4599,32344,2087272,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Comunidad Originaria Tsimane Puerto Ruso Undumo,U.E. Puerto Ruso,1
+627,2575,2087452,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,San José de Chupiamonas,Esc. Chaupy Yachay Huasi,1
 628,2542,2087462,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,1
 628,2542,2087472,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,2
 628,2542,2087482,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,3
@@ -76,6 +80,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4464,26496,2087832,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Niño Corin,U.E. Niño Corin,1
 4521,32215,2087852,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Callinsani,Centro Comunal Callinsani,1
 4527,32220,2087862,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Tacachillani,U.E. Tacachillani,1
+4528,32222,2087872,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chuxña Quta,Centro Comunal Chuxña Quta,1
 4555,32249,2087882,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Jatichulaya,U.E. Jatichulaya,1
 4556,32250,2087892,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Inca Roca,U.E. Inca Roca,1
 4557,32251,2087902,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Lunlaya,U.E. Lunlaya,1
@@ -93,6 +98,11 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4122,25539,3053172,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,Yuracare Limo del Isiboro,U.E. Limo,1
 4423,26181,3053282,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,Ibarecito,U.E. Ibarecito,1
 3248,1242,3055632,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,La Misión,Escuela La Mision,2
+3477,1,3055642,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Trinidadcito,Unidad Educativa Trinidadcito,1
+3478,1,3055652,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,El Carmen,Unidad Educativa El Carmen,1
+3479,1,3055662,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Santa Anita,Unidad Educativa Santa Anita,1
+3480,1,3055672,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Puerto Las Flores,Unidad Educativa Puerto las Flores,1
+3481,1,3055682,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Santa Isabel,Unidad Educativa Santa Isabel,1
 3855,1,3055722,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Tres Islas,Unidad Educativa Tres Islas,1
 4110,25519,3055732,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Urupa,U.E. 10 de Mayo,1
 3482,1,3057672,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,5,Puerto Villarroel,Comunidad Indígena Yuqui Biarecuate,Unidad Educativa Biarecuaté,1
