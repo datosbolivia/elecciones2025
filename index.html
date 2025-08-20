@@ -8,15 +8,20 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
 <link rel="preload" as="style" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
+<link rel="preload" as="style" href="./_observablehq/stdlib/inputs.ea9fd553.css">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" crossorigin>
 <link rel="stylesheet" type="text/css" href="./_observablehq/theme-air,near-midnight,alt,wide.db1cdf55.css">
-<link rel="modulepreload" href="./_observablehq/client.0f853e96.js">
+<link rel="stylesheet" type="text/css" href="./_observablehq/stdlib/inputs.ea9fd553.css">
+<link rel="modulepreload" href="./_observablehq/client.caf27530.js">
 <link rel="modulepreload" href="./_observablehq/runtime.e080113b.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.24b62b2e.js">
 <link rel="modulepreload" href="./_npm/maplibre-gl@5.6.2/80bead44.js">
 <link rel="modulepreload" href="./_npm/pmtiles@4.3.0/5b853975.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/e780feca.js">
+<link rel="modulepreload" href="./_observablehq/stdlib/inputs.b5a86791.js">
 <link rel="modulepreload" href="./_npm/@observablehq/plot@0.6.17/d761ef9b.js">
+<link rel="modulepreload" href="./_npm/htl@0.3.1/72f4716c.js">
+<link rel="modulepreload" href="./_npm/isoformat@0.2.1/18cbf477.js">
 <link rel="modulepreload" href="./_npm/fflate@0.8.2/e113a0e7.js">
 <link rel="modulepreload" href="./_npm/d3-array@3.2.4/e93ca09f.js">
 <link rel="modulepreload" href="./_npm/d3-axis@3.0.0/0f2de24d.js">
@@ -48,7 +53,6 @@
 <link rel="modulepreload" href="./_npm/d3-timer@3.0.1/b58a267d.js">
 <link rel="modulepreload" href="./_npm/d3-transition@3.0.1/004da2ac.js">
 <link rel="modulepreload" href="./_npm/d3-zoom@3.0.0/b5786b3f.js">
-<link rel="modulepreload" href="./_npm/isoformat@0.2.1/18cbf477.js">
 <link rel="modulepreload" href="./_npm/interval-tree-1d@1.0.4/53fe8176.js">
 <link rel="modulepreload" href="./_npm/internmap@2.0.3/e08981d9.js">
 <link rel="modulepreload" href="./_npm/delaunator@5.0.1/02d43215.js">
@@ -57,17 +61,116 @@
 <link rel="icon" href="https://mauforonda.github.io/images/icon.svg" type="image/svg" sizes="32x32">
 <script type="module">
 
-import {define} from "./_observablehq/client.0f853e96.js";
+import {define} from "./_observablehq/client.caf27530.js";
 import {registerFile} from "./_observablehq/stdlib.24b62b2e.js";
 
-registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755664496848,"size":18424});
-registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755664496848,"size":48160});
-registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755664496848,"size":10220});
-registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755664496848,"size":14496});
-registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755664496849,"size":295964});
-registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755664496849,"size":38746});
-registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755664496849,"size":47182});
-registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755664496850,"size":44812});
+registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755720892483,"size":18424});
+registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755720892483,"size":48160});
+registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755720892483,"size":10220});
+registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755720892484,"size":14496});
+registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755720892485,"size":295964});
+registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755720892485,"size":38746});
+registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755720892485,"size":47182});
+registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755720892485,"size":44812});
+
+define({id: "97e6dbc1", outputs: ["maplibregl","PMTiles","Protocol","protocol"], body: async () => {
+const [{default: maplibregl}, {PMTiles, Protocol}] = await Promise.all([import("./_npm/maplibre-gl@5.6.2/80bead44.js"), import("./_npm/pmtiles@4.3.0/5b853975.js")]);
+const protocol = new Protocol();
+maplibregl.addProtocol("pmtiles", protocol.tile);
+return {maplibregl,PMTiles,Protocol,protocol};
+}});
+
+define({id: "450ef225", inputs: ["Inputs","Generators"], outputs: ["vistaInput","vista"], body: (Inputs,Generators) => {
+// Selección de vistas
+const vistaInput = Inputs.radio(["validos", "participacion"], {
+  value: "validos",
+  required: true,
+  format: (d) => (d == "validos" ? "votos válidos" : "votos nulos y blancos"),
+});
+const vista = Generators.input(vistaInput);
+return {vistaInput,vista};
+}});
+
+define({id: "9d7307f2", inputs: ["colores_partidos","colores_participacion"], outputs: ["vistas"], body: (colores_partidos,colores_participacion) => {
+// Vistas
+const vistas = {
+  validos: {
+    colores: {
+      fondo: "#fff",
+      texto_fuerte: "#000",
+      texto_suave: "#a0a0a0ff",
+      fondo_suave: "#ccc",
+    },
+    texto: {
+      subtitulo: "Votos para presidente dentro del país",
+    },
+    mapa: {
+      estilo:
+        "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json",
+      color_recintos: colores_partidos,
+      etiquetas:
+        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+    },
+  },
+  participacion: {
+    colores: {
+      fondo: "#000000ff",
+      texto_fuerte: "#fbfbfbff",
+      texto_suave: "#e9e9e9ff",
+      fondo_suave: "#5a5a5aff",
+    },
+    texto: {
+      subtitulo: "Participación electoral dentro del país",
+    },
+    mapa: {
+      estilo:
+        "https://basemaps.cartocdn.com/gl/dark-matter-nolabels-gl-style/style.json",
+      color_recintos: colores_participacion,
+      etiquetas:
+        "https://a.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png",
+    },
+  },
+};
+return {vistas};
+}});
+
+define({id: "22b6053d", inputs: ["vistas","vista"], outputs: ["v"], body: (vistas,vista) => {
+const v = vistas[vista];
+return {v};
+}});
+
+define({id: "a9757b9d", inputs: ["v","map","capa_recintos","capa_etiquetas","capa_recintos_hover"], body: (v,map,capa_recintos,capa_etiquetas,capa_recintos_hover) => {
+document.documentElement.style.setProperty("--fondo", v.colores.fondo);
+document.documentElement.style.setProperty(
+  "--texto_fuerte",
+  v.colores.texto_fuerte
+);
+document.documentElement.style.setProperty(
+  "--fondo_suave",
+  v.colores.fondo_suave
+);
+document.documentElement.style.setProperty(
+  "--texto_suave",
+  v.colores.texto_suave
+);
+
+map.setStyle(v.mapa.estilo, { diff: false });
+map.once("styledata", () => {
+  if (!map.getSource("recintos"))
+    map.addSource("recintos", capa_recintos.source);
+  if (!map.getSource("etiquetas"))
+    map.addSource("etiquetas", capa_etiquetas.source);
+  if (!map.getLayer("recintos")) map.addLayer(capa_recintos.layer);
+  if (!map.getLayer("etiquetas")) map.addLayer(capa_etiquetas.layer);
+  if (!map.getLayer("recintos_hover")) map.addLayer(capa_recintos_hover);
+});
+}});
+
+define({id: "5bbf212e", mode: "inline", inputs: ["v","display"], body: async (v,display) => {
+display(await(
+v.texto.subtitulo
+))
+}});
 
 define({id: "59519bf1", mode: "inline", inputs: ["timestamp_string","display"], body: async (timestamp_string,display) => {
 display(await(
@@ -81,19 +184,15 @@ d3.format(".2%")(progreso)
 ))
 }});
 
-define({id: "367a1f0d", outputs: ["maplibregl","PMTiles","Protocol"], body: async () => {
-const [{default: maplibregl}, {PMTiles, Protocol}] = await Promise.all([import("./_npm/maplibre-gl@5.6.2/80bead44.js"), import("./_npm/pmtiles@4.3.0/5b853975.js")]);
-
-return {maplibregl,PMTiles,Protocol};
+define({id: "4ab7832d", mode: "inline", inputs: ["vistaInput","display"], body: async (vistaInput,display) => {
+display(await(
+vistaInput
+))
 }});
 
-define({id: "a9ffa112", inputs: ["Protocol","maplibregl"], outputs: ["protocol"], body: (Protocol,maplibregl) => {
-const protocol = new Protocol();
-maplibregl.addProtocol("pmtiles", protocol.tile);
-return {protocol};
-}});
+define({id: "248c53fe", inputs: ["d3"], outputs: ["gh","recintos","resultados","timestamp","dateFormatter","timestamp_string","progreso"], body: async (d3) => {
+// Datos
 
-define({id: "9c5d30a5", inputs: ["d3","FileAttachment"], outputs: ["gh","recintos","resultados","timestamp","dateFormatter","timestamp_string","progreso","fotos","colores","fondo"], body: async (d3,FileAttachment) => {
 const gh =
   "https://raw.githubusercontent.com/datosbolivia/elecciones2025/refs/heads/main/resultados/datos/";
 const recintos = await d3.json(`${gh}recintos.geojson`);
@@ -109,46 +208,11 @@ const dateFormatter = new Intl.DateTimeFormat("es", {
 });
 const timestamp_string = dateFormatter.format(new Date(timestamp));
 const progreso = await fetch(`${gh}progreso`).then((r) => r.text());
-let fotos = {
-  AP: await FileAttachment("./imagenes/ap.webp").url(),
-  "LYP-ADN": await FileAttachment("./imagenes/lyp-adn.webp").url(),
-  "APB-SUMATE": await FileAttachment("./imagenes/apb-sumate.webp").url(),
-  LIBRE: await FileAttachment("./imagenes/libre.webp").url(),
-  FP: await FileAttachment("./imagenes/fp.webp").url(),
-  "MAS-IPSP": await FileAttachment("./imagenes/mas-ipsp.webp").url(),
-  UNIDAD: await FileAttachment("./imagenes/unidad.webp").url(),
-  PDC: await FileAttachment("./imagenes/pdc.webp").url(),
-};
-let colores = {
-  AP: ["#00b5ee", "#4f7d35"],
-  "LYP-ADN": ["#a91521", "#2f2f30"],
-  "APB-SUMATE": ["#430956", "#cb010d"],
-  LIBRE: ["#f50303", "#1d65c5"],
-  FP: ["#1897d5", "#59c4f0"],
-  "MAS-IPSP": ["#143a83", "#585755"],
-  UNIDAD: ["#feb447", "#083c6b"],
-  PDC: ["#05636b", "#dd0710"],
-};
-let fondo = {
-  gris: "#ccc",
-  texto: "#a0a0a0ff",
-};
-return {gh,recintos,resultados,timestamp,dateFormatter,timestamp_string,progreso,fotos,colores,fondo};
+return {gh,recintos,resultados,timestamp,dateFormatter,timestamp_string,progreso};
 }});
 
-define({id: "28a5a20b", inputs: ["recintos","resultados","colores","fondo"], outputs: ["colores_expresion"], body: (recintos,resultados,colores,fondo) => {
-// consolidar resultados y recintos
-
-for (const feature of recintos.features) {
-  const codigo = feature.properties.c;
-  const resultado = resultados[codigo];
-  feature.properties.partido = resultado?.g ?? null;
-}
-
-let colores_expresion = ["match", ["get", "partido"]];
-for (const [opcion, color] of Object.entries(colores))
-  colores_expresion.push(opcion, color[0]);
-colores_expresion.push(fondo.gris);
+define({id: "bdba43e4", inputs: ["recintos","resultados"], body: (recintos,resultados) => {
+// Consolidar resultados y recintos
 
 for (const feature of recintos.features) {
   const codigo = feature.properties.c;
@@ -156,30 +220,111 @@ for (const feature of recintos.features) {
   feature.properties.total = resultado
     ? Object.values(resultado.r).reduce((s, v) => s + v, 0)
     : 0;
+  feature.properties.partido = resultado?.g ?? null;
+  feature.properties.invalido = resultado?.p
+    ? (resultado.p.b + resultado.p.n) /
+      (resultado.p.b + resultado.p.n + resultado.p.v)
+    : null;
 }
-return {colores_expresion};
 }});
 
-define({id: "81d3cd61", outputs: ["labels","recintos_hover"], body: () => {
-const labels = {
+define({id: "3a1aef9c", inputs: ["FileAttachment"], outputs: ["partidos","colores_partidos"], body: async (FileAttachment) => {
+const partidos = {
+  fotos: {
+    AP: await FileAttachment("./imagenes/ap.webp").url(),
+    "LYP-ADN": await FileAttachment("./imagenes/lyp-adn.webp").url(),
+    "APB-SUMATE": await FileAttachment("./imagenes/apb-sumate.webp").url(),
+    LIBRE: await FileAttachment("./imagenes/libre.webp").url(),
+    FP: await FileAttachment("./imagenes/fp.webp").url(),
+    "MAS-IPSP": await FileAttachment("./imagenes/mas-ipsp.webp").url(),
+    UNIDAD: await FileAttachment("./imagenes/unidad.webp").url(),
+    PDC: await FileAttachment("./imagenes/pdc.webp").url(),
+  },
+  colores: {
+    AP: ["#00b5ee", "#4f7d35"],
+    "LYP-ADN": ["#a91521", "#2f2f30"],
+    "APB-SUMATE": ["#430956", "#cb010d"],
+    LIBRE: ["#f50303", "#1d65c5"],
+    FP: ["#1897d5", "#59c4f0"],
+    "MAS-IPSP": ["#143a83", "#585755"],
+    UNIDAD: ["#feb447", "#083c6b"],
+    PDC: ["#05636b", "#dd0710"],
+  },
+};
+
+let colores_partidos = ["match", ["get", "partido"]];
+for (const [opcion, color] of Object.entries(partidos.colores))
+  colores_partidos.push(opcion, color[0]);
+colores_partidos.push("#ccc");
+return {partidos,colores_partidos};
+}});
+
+define({id: "c19efdf1", outputs: ["colores_participacion"], body: () => {
+const colores_participacion = [
+  "interpolate",
+  ["linear"],
+  ["coalesce", ["to-number", ["get", "invalido"]], 0],
+  0,
+  "#1e4160",
+  0.25,
+  "#17b79c",
+  0.5,
+  "#abea87",
+  0.7,
+  "#f3ff83",
+  1,
+  "#eaff2eff",
+];
+return {colores_participacion};
+}});
+
+define({id: "3fa01f2d", inputs: ["v","recintos"], outputs: ["capa_etiquetas","capa_recintos","capa_recintos_hover"], body: (v,recintos) => {
+// Capas
+
+const capa_etiquetas = {
   source: {
     type: "raster",
-    tiles: [
-      "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
-    ],
+    tiles: [v.mapa.etiquetas],
     tileSize: 256,
   },
   layer: {
-    id: "labels-layer",
+    id: "etiquetas-layer",
     type: "raster",
-    source: "labels",
+    source: "etiquetas",
     paint: {
       "raster-opacity": 0.8,
     },
   },
 };
 
-const recintos_hover = {
+const capa_recintos = {
+  source: {
+    type: "geojson",
+    data: recintos,
+  },
+  layer: {
+    id: "recintos",
+    type: "circle",
+    source: "recintos",
+    paint: {
+      "circle-radius": [
+        "interpolate",
+        ["linear"],
+        ["zoom"],
+        6,
+        ["min", 2, ["max", 1, ["*", 0.03, ["to-number", ["get", "total"]]]]],
+        12,
+        ["min", 7, ["max", 2, ["*", 0.02, ["to-number", ["get", "total"]]]]],
+        16,
+        ["min", 21, ["max", 3, ["*", 0.08, ["to-number", ["get", "total"]]]]],
+      ],
+      "circle-color": v.mapa.color_recintos,
+      "circle-opacity": 0.5,
+    },
+  },
+};
+
+const capa_recintos_hover = {
   id: "recintos_hover",
   type: "circle",
   source: "recintos",
@@ -205,111 +350,16 @@ const recintos_hover = {
     ],
   },
 };
-return {labels,recintos_hover};
+return {capa_etiquetas,capa_recintos,capa_recintos_hover};
 }});
 
-define({id: "842c8555", inputs: ["Plot","fotos","fondo","colores","d3"], outputs: ["plot_resultado"], body: (Plot,fotos,fondo,colores,d3) => {
-function plot_resultado(resultado) {
-  if (resultado) {
-    const r = Object.entries(resultado.r);
-    const total = r.reduce((s, [, v]) => s + v, 0);
-    const data = r
-      .map(([opcion, conteo]) => ({
-        opcion,
-        conteo,
-        porcentaje: conteo / total,
-      }))
-      .sort((a, b) => b.conteo - a.conteo);
-
-    return Plot.plot({
-      margin: 0,
-      marginLeft: 80,
-      marginRight: 10,
-      height: data.length * 90,
-      x: { axis: null, domain: [0, 1] },
-      y: { axis: null, domain: data.map((d) => d.opcion) },
-      marks: [
-        Plot.image(data, {
-          x: 0,
-          y: "opcion",
-          src: (d) => fotos[d.opcion],
-          dx: -50,
-          dy: 10,
-          r: 28,
-          width: 80,
-        }),
-        Plot.barX(data, {
-          x: 1,
-          y: "opcion",
-          fill: fondo.gris,
-          fillOpacity: 0.3,
-          insetTop: 40,
-          insetBottom: 10,
-          r: 15,
-        }),
-        Plot.barX(data, {
-          x: "porcentaje",
-          y: "opcion",
-          fill: (d) => colores[d.opcion][0],
-          fillOpacity: 0.5,
-          insetTop: 40,
-          insetBottom: 10,
-          r: 15,
-        }),
-        Plot.barX(data, {
-          x: 1,
-          y: "opcion",
-          fill: null,
-          stroke: fondo.texto,
-          strokeOpacity: 0.5,
-          strokeWidth: 1,
-          insetTop: 40,
-          insetBottom: 10,
-          r: 15,
-        }),
-        Plot.text(data, {
-          x: 1,
-          y: "opcion",
-          text: (d) => d3.format(".1%")(d.porcentaje),
-          fill: fondo.texto,
-          fontSize: 35,
-          lineAnchor: "bottom",
-          textAnchor: "end",
-          dy: -15,
-          dx: -5,
-          fontFamily: "Inter",
-        }),
-        Plot.text(data, {
-          x: 0,
-          y: "opcion",
-          text: (d) => `${d.conteo} votos`,
-          fill: fondo.texto,
-          fillOpacity: 0.8,
-          fontSize: 30,
-          lineAnchor: "bottom",
-          textAnchor: "start",
-          dy: -15,
-          dx: 5,
-          fontFamily: "Inter",
-        }),
-      ],
-    });
-  } else {
-    return "";
-  }
-}
-return {plot_resultado};
-}});
-
-define({id: "011930ae", inputs: ["display","maplibregl","recintos","colores_expresion","labels","recintos_hover","resultados","plot_resultado","invalidation"], outputs: ["div","map","popup","locked","mouseenter","mouseleave"], body: (display,maplibregl,recintos,colores_expresion,labels,recintos_hover,resultados,plot_resultado,invalidation) => {
+define({id: "0a1b54db", inputs: ["display","maplibregl","invalidation"], outputs: ["div","map"], body: (display,maplibregl,invalidation) => {
 const div = display(document.createElement("div"));
 div.id = "mapa";
 const map = new maplibregl.Map({
   container: div,
   center: [-65.482, -17.237],
   zoom: 5,
-  style:
-    "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json",
   scrollZoom: true,
   attributionControl: {
     compact: true,
@@ -318,46 +368,32 @@ const map = new maplibregl.Map({
   },
 });
 
-map.on("load", function () {
-  map.addSource("recintos", {
-    type: "geojson",
-    data: recintos,
-  });
-
-  map.addLayer({
-    id: "recintos",
-    type: "circle",
-    source: "recintos",
-    paint: {
-      "circle-radius": [
-        "interpolate",
-        ["linear"],
-        ["zoom"],
-        6,
-        ["min", 2, ["max", 1, ["*", 0.03, ["to-number", ["get", "total"]]]]],
-        12,
-        ["min", 7, ["max", 2, ["*", 0.02, ["to-number", ["get", "total"]]]]],
-        16,
-        ["min", 21, ["max", 3, ["*", 0.08, ["to-number", ["get", "total"]]]]],
-      ],
-      "circle-color": colores_expresion,
-      "circle-opacity": 0.5,
+map.addControl(new maplibregl.NavigationControl());
+map.addControl(
+  new maplibregl.GeolocateControl({
+    positionOptions: {
+      enableHighAccuracy: true,
     },
-  });
+    showAccuracyCircle: false,
+    showUserLocation: true,
+  }),
+  "top-right"
+);
 
-  map.addSource("labels", labels.source);
-  map.addLayer(labels.layer);
+invalidation.then(() => map.remove());
+return {div,map};
+}});
 
-  map.addLayer(recintos_hover);
-});
-
+define({id: "85070c41", inputs: ["maplibregl"], outputs: ["popup"], body: (maplibregl) => {
 const popup = new maplibregl.Popup({
   closeButton: false,
   closeOnClick: false,
 });
+return {popup};
+}});
 
+define({id: "02332f73", inputs: ["map","resultados","plot_resultado","popup"], outputs: ["locked","mouseenter","mouseleave"], body: (map,resultados,plot_resultado,popup) => {
 let locked = false;
-
 const mouseenter = function (e) {
   map.getCanvas().style.cursor = "pointer";
   const recinto_feature = e.features[0];
@@ -394,21 +430,218 @@ map.on("click", (e) => {
     popup.remove();
   }
 });
+return {locked,mouseenter,mouseleave};
+}});
 
-map.addControl(new maplibregl.NavigationControl());
-map.addControl(
-  new maplibregl.GeolocateControl({
-    positionOptions: {
-      enableHighAccuracy: true,
-    },
-    showAccuracyCircle: false,
-    showUserLocation: true,
-  }),
-  "top-right"
-);
+define({id: "34b1d9b5", inputs: ["vista","plot_validos","vistas","Plot","d3"], outputs: ["plot_resultado","plot_participacion"], body: (vista,plot_validos,vistas,Plot,d3) => {
+function plot_resultado(resultado) {
+  if (vista == "validos") {
+    return plot_validos(resultado);
+  } else {
+    return plot_participacion(resultado);
+  }
+}
 
-invalidation.then(() => map.remove());
-return {div,map,popup,locked,mouseenter,mouseleave};
+function plot_participacion(resultado) {
+  if (resultado) {
+    const p = Object.entries(resultado.p);
+    const total = p.reduce((s, [, v]) => s + v, 0);
+    const data = p.map(([opcion, conteo]) => ({
+      opcion,
+      conteo,
+      porcentaje: conteo / total,
+    }));
+
+    const etiquetas_participacion = {
+      v: "VÁLIDOS",
+      b: "BLANCOS",
+      n: "NULOS",
+    };
+
+    const colores_participacion = {
+      v: vistas.participacion.colores.texto_suave,
+      b: "#f3ff83",
+      n: "#f3ff83",
+    };
+
+    return Plot.plot({
+      margin: 0,
+      marginLeft: 180,
+      marginRight: 10,
+      height: data.length * 90,
+      x: { axis: null, domain: [0, 1] },
+      y: { axis: null, domain: data.map((d) => d.opcion) },
+      marks: [
+        Plot.text(data, {
+          x: 0,
+          y: "opcion",
+          text: (d) => etiquetas_participacion[d.opcion],
+          fill: (d) => colores_participacion[d.opcion],
+          fillOpacity: 0.8,
+          fontSize: 30,
+          fontWeight: 600,
+          lineAnchor: "middle",
+          textAnchor: "end",
+          dy: 15,
+          dx: -12,
+          fontFamily: "Inter",
+        }),
+        Plot.barX(data, {
+          x: 1,
+          y: "opcion",
+          fill: vistas.participacion.colores.fondo_suave,
+          fillOpacity: 0.3,
+          insetTop: 40,
+          insetBottom: 10,
+          r: 15,
+        }),
+        Plot.barX(data, {
+          x: "porcentaje",
+          y: "opcion",
+          fill: (d) => colores_participacion[d.opcion],
+          fillOpacity: (d) => (d.opcion == "v" ? 0.5 : 1),
+          insetTop: 40,
+          insetBottom: 10,
+          r: 15,
+        }),
+        Plot.barX(data, {
+          x: 1,
+          y: "opcion",
+          fill: null,
+          stroke: vistas.validos.colores.texto_suave,
+          strokeOpacity: 0.5,
+          strokeWidth: 1,
+          insetTop: 40,
+          insetBottom: 10,
+          r: 15,
+        }),
+        Plot.text(data, {
+          x: 1,
+          y: "opcion",
+          text: (d) => d3.format(".1%")(d.porcentaje),
+          fill: vistas.participacion.colores.texto_suave,
+          fontSize: 35,
+          lineAnchor: "bottom",
+          textAnchor: "end",
+          dy: -15,
+          dx: -5,
+          fontFamily: "Inter",
+        }),
+        Plot.text(data, {
+          x: 0,
+          y: "opcion",
+          text: (d) => `${d.conteo} votos`,
+          fill: vistas.participacion.colores.texto_suave,
+          fillOpacity: 0.8,
+          fontSize: 30,
+          lineAnchor: "bottom",
+          textAnchor: "start",
+          dy: -15,
+          dx: 5,
+          fontFamily: "Inter",
+        }),
+      ],
+    });
+  } else {
+    return "";
+  }
+}
+return {plot_resultado,plot_participacion};
+}});
+
+define({id: "364d6723", inputs: ["Plot","partidos","vistas","d3"], outputs: ["plot_validos"], body: (Plot,partidos,vistas,d3) => {
+// Gráfica de barras para votos por partido
+
+function plot_validos(resultado) {
+  if (resultado) {
+    const r = Object.entries(resultado.r);
+    const total = r.reduce((s, [, v]) => s + v, 0);
+    const data = r
+      .map(([opcion, conteo]) => ({
+        opcion,
+        conteo,
+        porcentaje: conteo / total,
+      }))
+      .sort((a, b) => b.conteo - a.conteo);
+
+    return Plot.plot({
+      margin: 0,
+      marginLeft: 80,
+      marginRight: 10,
+      height: data.length * 90,
+      x: { axis: null, domain: [0, 1] },
+      y: { axis: null, domain: data.map((d) => d.opcion) },
+      marks: [
+        Plot.image(data, {
+          x: 0,
+          y: "opcion",
+          src: (d) => partidos.fotos[d.opcion],
+          dx: -50,
+          dy: 10,
+          r: 28,
+          width: 80,
+        }),
+        Plot.barX(data, {
+          x: 1,
+          y: "opcion",
+          fill: vistas.validos.colores.fondo_suave,
+          fillOpacity: 0.3,
+          insetTop: 40,
+          insetBottom: 10,
+          r: 15,
+        }),
+        Plot.barX(data, {
+          x: "porcentaje",
+          y: "opcion",
+          fill: (d) => partidos.colores[d.opcion][0],
+          fillOpacity: 0.5,
+          insetTop: 40,
+          insetBottom: 10,
+          r: 15,
+        }),
+        Plot.barX(data, {
+          x: 1,
+          y: "opcion",
+          fill: null,
+          stroke: vistas.validos.colores.texto_suave,
+          strokeOpacity: 0.5,
+          strokeWidth: 1,
+          insetTop: 40,
+          insetBottom: 10,
+          r: 15,
+        }),
+        Plot.text(data, {
+          x: 1,
+          y: "opcion",
+          text: (d) => d3.format(".1%")(d.porcentaje),
+          fill: vistas.validos.colores.texto_suave,
+          fontSize: 35,
+          lineAnchor: "bottom",
+          textAnchor: "end",
+          dy: -15,
+          dx: -5,
+          fontFamily: "Inter",
+        }),
+        Plot.text(data, {
+          x: 0,
+          y: "opcion",
+          text: (d) => `${d.conteo} votos`,
+          fill: vistas.validos.colores.texto_suave,
+          fillOpacity: 0.8,
+          fontSize: 30,
+          lineAnchor: "bottom",
+          textAnchor: "start",
+          dy: -15,
+          dx: 5,
+          fontFamily: "Inter",
+        }),
+      ],
+    });
+  } else {
+    return "";
+  }
+}
+return {plot_validos};
 }});
 
 </script>
@@ -416,6 +649,7 @@ return {div,map,popup,locked,mouseenter,mouseleave};
 <body>
 <div id="observablehq-center">
 <main id="observablehq-main" class="observablehq">
+<div class="observablehq observablehq--block"><!--:97e6dbc1:--></div>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/maplibre-gl@4.0.2/dist/maplibre-gl.css">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -424,18 +658,17 @@ return {div,map,popup,locked,mouseenter,mouseleave};
     min-height: 100vh;
   }
   .header {
-    color: black;
+    color: var(--texto_fuerte);
+    background: var(--fondo);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     position: sticky;
     z-index:4;
-    background: white;
     top: 0;
     left: 0;
-    height: 100px;
-    background: #fff;
+    height: 120px;
     .title {
       font-family: serif;
       font-size: 1.5rem;
@@ -457,37 +690,81 @@ return {div,map,popup,locked,mouseenter,mouseleave};
         font-size: .7rem;
       }
     }
+    .cambio_input {
+      form div {
+        display: flex;
+        align-items: end;
+        justify-content: center;
+        background-color: var(--fondo);
+      }
+      input {
+          display: none;
+      }
+      label {
+        color: var(--texto_suave);
+        padding: 3px 6px;
+        font-size: 0.8em;
+        opacity: 0.8;
+        border-bottom: 2px solid var(--fondo);
+        cursor: pointer;
+      }
+      label:hover {
+        border-color: var(--border); */
+      } 
+      label:has(input[type="radio"]:checked) {
+        color: var(--texto_fuerte);
+        background: var(--fondo);
+        border-bottom: 2px solid var(--texto_suave);
+      }
+    }
   }
   #mapa {
     position: absolute; 
-    top: 100px; 
+    top: 120px; 
     bottom: 0; 
     width: 100%;
   }
   .maplibregl-popup {
-      max-width: 400px;
-      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    .maplibregl-popup-content {
+      background: var(--fondo);
+      box-shadow: 0 4px 12px rgba(136, 160, 195, 0.4); 
+    }
   }
+
+  .maplibregl-popup-anchor-bottom .maplibregl-popup-tip {
+    border-top-color: var(--fondo) !important;
+  }
+
   .popup_header {
     font-family: "Inter";
     text-align: center;
-    opacity: .3;
+    opacity: .5;
     font-size: .9em;
     text-transform: uppercase;
     margin-bottom: 10px;
+    color: var(--texto_fuerte);
   }
 </style>
+<div class="observablehq observablehq--block"><!--:450ef225:--></div>
+<div class="observablehq observablehq--block"><!--:9d7307f2:--></div>
+<div class="observablehq observablehq--block"><!--:22b6053d:--></div>
+<div class="observablehq observablehq--block"><!--:a9757b9d:--></div>
 <div class="header">
   <div class="title">Bolivia 2025</div>
-  <div class="subtitle"><span>Votos para presidente dentro del país</span><span class="timestamp">actualizado el <observablehq-loading></observablehq-loading><!--:59519bf1:--> y contado al <observablehq-loading></observablehq-loading><!--:701bc5b3:--></span></div>
+  <div class="subtitle"><span><observablehq-loading></observablehq-loading><!--:5bbf212e:--></span><span class="timestamp">actualizado el <observablehq-loading></observablehq-loading><!--:59519bf1:--> y contado al <observablehq-loading></observablehq-loading><!--:701bc5b3:--></span></div>
+  <div class="cambio_input"><observablehq-loading></observablehq-loading><!--:4ab7832d:--></div>
 </div>
-<div class="observablehq observablehq--block"><!--:367a1f0d:--></div>
-<div class="observablehq observablehq--block"><!--:a9ffa112:--></div>
-<div class="observablehq observablehq--block"><!--:9c5d30a5:--></div>
-<div class="observablehq observablehq--block"><!--:28a5a20b:--></div>
-<div class="observablehq observablehq--block"><!--:81d3cd61:--></div>
-<div class="observablehq observablehq--block"><!--:842c8555:--></div>
-<div class="observablehq observablehq--block"><!--:011930ae:--></div>
+<div class="observablehq observablehq--block"><!--:248c53fe:--></div>
+<div class="observablehq observablehq--block"><!--:bdba43e4:--></div>
+<div class="observablehq observablehq--block"><!--:3a1aef9c:--></div>
+<div class="observablehq observablehq--block"><!--:c19efdf1:--></div>
+<div class="observablehq observablehq--block"><!--:3fa01f2d:--></div>
+<div class="observablehq observablehq--block"><!--:0a1b54db:--></div>
+<div class="observablehq observablehq--block"><!--:85070c41:--></div>
+<div class="observablehq observablehq--block"><!--:02332f73:--></div>
+<div class="observablehq observablehq--block"><!--:34b1d9b5:--></div>
+<div class="observablehq observablehq--block"><!--:364d6723:--></div>
 </main>
 </div>
 </body>
