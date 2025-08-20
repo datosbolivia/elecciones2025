@@ -33,6 +33,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3454,1,2070612,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Correo,U. E. Correo,2
 3455,1,2070622,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Munaypata,U. E. Munaypata,1
 3455,1,2070632,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Munaypata,U. E. Munaypata,2
+3456,1,2070642,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Torewa I (Pueblo Antiguo),Unidad Educativa Indigena Torewa,1
 4529,32223,2070662,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Irimo,U.E. Irimo,1
 4530,32224,2070672,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Santo Domingo,U.E. Santo Domingo,1
 4533,32227,2070692,32,BOLIVIA,2,La Paz,0,1,7,Franz Tamayo                            ,1,Apolo,Pucasucho,U.E. Pucasucho,1
@@ -66,6 +67,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 635,1060,2087192,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Puerto Pérez (Iturralde),Escuela Puerto Perez,2
 3466,1,2087222,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,El Tigre (Río Madre de Dios),Unidad Educativa El Tigre,1
 3467,1,2087232,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Macahua,Unidad Educativa 10 de Abril,1
+3468,1,2087242,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Villa Fátima,Escuela Villa Fatima,1
 4599,32344,2087272,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,1,Ixiamas,Comunidad Originaria Tsimane Puerto Ruso Undumo,U.E. Puerto Ruso,1
 627,2575,2087452,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,San José de Chupiamonas,Esc. Chaupy Yachay Huasi,1
 628,2542,2087462,32,BOLIVIA,2,La Paz,0,1,15,Abel Iturralde                          ,2,San Buenaventura,Tumupasa,U.E. Tumupasa B,1
@@ -83,6 +85,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 639,25768,2087612,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,3
 639,25768,2087622,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,4
 639,25768,2087632,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,5
+640,25769,2087642,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chulina (San Miguel),U. E. Chullina,1
 640,25769,2087652,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Chulina (San Miguel),U. E. Chullina,2
 641,25589,2087662,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Carijana,U. E. Carijana,1
 642,2385,2087672,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Gral. Ramón Gonzales,U.E. Gral. Ramon Gonzales,1
