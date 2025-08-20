@@ -72,6 +72,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 639,25768,2087632,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarete,U. E. Isqani 2,5
 642,2385,2087672,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Gral. Ramón Gonzales,U.E. Gral. Ramon Gonzales,1
 643,25770,2087682,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Santa Rosa de Caata,U. E. Yawar Mallku,1
+643,25770,2087692,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Santa Rosa de Caata,U. E. Yawar Mallku,2
 3235,8014,2087722,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Apacheta,Unidad Educativa Apacheta,1
 3347,25767,2087752,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarka,U. E. Llachuani,1
 3383,1,2087772,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Sayhuani,U.E. Sayhuani,1
@@ -93,6 +94,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 650,25773,2087982,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Cañizaya,U. E. Cañizaya,1
 651,2458,2087992,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Taipi Cañuma,Recinto Taipi Canuma,1
 651,2458,2088002,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,2,Curva,Taipi Cañuma,Recinto Taipi Canuma,2
+3474,1,3052912,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San José de Angosta,Unidad Educativa San Jose de Angosta,1
 3474,1,3052922,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San José de Angosta,Unidad Educativa San Jose de Angosta,2
 3475,1,3052932,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,Santa Rosa de la Boca,U. E. Santa Rosa de La Boca,1
 4029,25357,3053162,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,San Benito,U.E. San Benito,1
