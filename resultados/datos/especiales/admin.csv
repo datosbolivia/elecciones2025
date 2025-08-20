@@ -21,6 +21,9 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 474,2656,2078912,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,2,Irupana,Laza,U.E. Victor Centellas,2
 484,2664,2079572,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Covendo,Esc. Franz Tamayo,1
 484,2664,2079582,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Covendo,Esc. Franz Tamayo,2
+487,2666,2079662,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,1
+487,2666,2079672,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,2
+4542,32235,2079942,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Playa Verde,U.E. Arancibia de Moseténes,1
 4549,32243,2079952,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San Pedro de Cogotay,U.E. Cogotay,1
 4548,32241,2086402,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Tocaña,U.E. Tocaña,1
 4558,32253,2086412,32,BOLIVIA,2,La Paz,0,1,14,Nor Yungas                              ,1,Coroico,Cusilluni,U.E. Villa Rosario,1
@@ -37,6 +40,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4423,26181,3053282,32,BOLIVIA,3,Cochabamba,0,2,10,Chapare                                 ,3,Villa Tunari,Ibarecito,U.E. Ibarecito,1
 3248,1242,3055632,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,La Misión,Escuela La Mision,2
 3855,1,3055722,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Tres Islas,Unidad Educativa Tres Islas,1
+4110,25519,3055732,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,4,Chimoré,Urupa,U.E. 10 de Mayo,1
 3482,1,3057672,32,BOLIVIA,3,Cochabamba,0,2,12,Carrasco                                ,5,Puerto Villarroel,Comunidad Indígena Yuqui Biarecuate,Unidad Educativa Biarecuaté,1
 3489,1,4012792,32,BOLIVIA,4,Oruro,0,3,2,Abaroa,1,Challapata,Uru Murato Wilañeque,U. E. Wilañeque,1
 3492,1,4013972,32,BOLIVIA,4,Oruro,0,3,6,Poopó                                   ,1,Poopó,Puñaca,Esc. Puñaca,1
@@ -170,6 +174,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2370,4028,7072942,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,3
 2370,4028,7072952,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,4
 2370,4028,7072962,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Iyovi Aguarigua,U.E. Enrique Iyambae,5
+2371,4029,7072972,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Izozog Coopere Brecha Loma(Cap.),U.E. Guarikusari Aguilera José,1
 2371,4029,7072982,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Izozog Coopere Brecha Loma(Cap.),U.E. Guarikusari Aguilera José,2
 2371,4029,7072992,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Izozog Coopere Brecha Loma(Cap.),U.E. Guarikusari Aguilera José,3
 2373,4030,7073002,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,2,AIOC Charagua Iyambae,Comunidad Indígena Cuarirenda Izozog,U. E. Juan Felix  Arandiko,1
@@ -202,6 +207,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3568,1,7073842,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,3,Cabezas,Yatirenda,U.E. Yateirenda,2
 3569,1,7073852,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,3,Cabezas,Cotoca,U.E. Cotoca,1
 3064,4065,7074062,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,4,Cuevo,Huaraca,U.E Huaraca,1
+3571,25474,7074072,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,4,Cuevo,El Arenal,U.E. El Arenal,1
 3572,1,7074082,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,4,Cuevo,Itakuatia,U.E. Itacuatia,1
 3985,1,7074092,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,4,Cuevo,Salinas,U.E. Salinas,1
 2367,4027,7074162,32,BOLIVIA,7,Santa Cruz,0,5,7,Cordillera                              ,5,AIOC Guaraní Kereimba Iyaambae,Guasanti,U.E. Guasuanti,1
@@ -258,6 +264,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3591,1,7084842,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,2,San Javier                              ,Las Abras,U.E. Las Abras,1
 3591,1,7084852,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,2,San Javier                              ,Las Abras,U.E. Las Abras,2
 3592,1,7084862,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,2,San Javier                              ,Turux Napez,U.E. Turux Napez,1
+3593,1,7084872,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,2,San Javier                              ,San Pablo,U.E. San Pablo,1
 4611,32362,7084882,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,2,San Javier                              ,Comunidad Indígena San Joaquín,U.E. San Joaquín,1
 3596,1,7086432,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,4,San Julián,16 de Marzo,U.E. 16 de Marzo,1
 3596,1,7086442,32,BOLIVIA,7,Santa Cruz,0,5,11,Ñuflo De Chávez,4,San Julián,16 de Marzo,U.E. 16 de Marzo,2
@@ -296,6 +303,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2511,6004,7089522,32,BOLIVIA,7,Santa Cruz,0,5,14,Germán Busch,3,El Carmen Rivero Tórrez,Rincón del Tigre,U.E. Evangélico Rincón del Tigre,1
 3603,1,7089692,32,BOLIVIA,7,Santa Cruz,0,5,14,Germán Busch,3,El Carmen Rivero Tórrez,Palmeras,U.E. Palmera,1
 3603,1,7089702,32,BOLIVIA,7,Santa Cruz,0,5,14,Germán Busch,3,El Carmen Rivero Tórrez,Palmeras,U.E. Palmera,2
+2519,7002,7090402,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,1,Ascención de Guarayos,San Pablo,Esc. San Pablo,1
 2519,7002,7090412,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,1,Ascención de Guarayos,San Pablo,Esc. San Pablo,2
 2519,7002,7090422,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,1,Ascención de Guarayos,San Pablo,Esc. San Pablo,3
 2519,7002,7090432,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,1,Ascención de Guarayos,San Pablo,Esc. San Pablo,4
@@ -311,6 +319,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2521,7004,7090602,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,3
 2521,7004,7090612,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,4
 2521,7004,7090622,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,5
+2521,7004,7090632,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,6
 2521,7004,7090642,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,7
 2521,7004,7090652,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,8
 2521,7004,7090662,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Urubichá,U.E. Niño Jesús I,9
@@ -320,6 +329,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 2522,7006,7090702,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,2
 2522,7006,7090712,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,3
 2522,7006,7090722,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,4
+2522,7006,7090732,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,5
 2522,7006,7090742,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Yaguarú,Esc. Nucleo Escolar Yaguaru,6
 2523,7005,7090752,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Monseñor Salvatierra,Esc. Secc. Mon. Salvatierra,1
 3604,1,7090762,32,BOLIVIA,7,Santa Cruz,0,5,15,Guarayos                                ,2,Urubicha,Santa Teresita (Cururu),U.E. 1ro de abril,1
