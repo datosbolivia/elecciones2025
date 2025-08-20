@@ -60,14 +60,14 @@
 import {define} from "./_observablehq/client.0f853e96.js";
 import {registerFile} from "./_observablehq/stdlib.24b62b2e.js";
 
-registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755644610602,"size":18424});
-registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755644610602,"size":48160});
-registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755644610602,"size":10220});
-registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755644610602,"size":14496});
-registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755644610603,"size":295964});
-registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755644610604,"size":38746});
-registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755644610604,"size":47182});
-registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755644610604,"size":44812});
+registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755664496848,"size":18424});
+registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755664496848,"size":48160});
+registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755664496848,"size":10220});
+registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755664496848,"size":14496});
+registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755664496849,"size":295964});
+registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755664496849,"size":38746});
+registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755664496849,"size":47182});
+registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755664496850,"size":44812});
 
 define({id: "59519bf1", mode: "inline", inputs: ["timestamp_string","display"], body: async (timestamp_string,display) => {
 display(await(
@@ -136,7 +136,7 @@ let fondo = {
 return {gh,recintos,resultados,timestamp,dateFormatter,timestamp_string,progreso,fotos,colores,fondo};
 }});
 
-define({id: "076f91d7", inputs: ["recintos","resultados","colores","fondo"], outputs: ["colores_expresion"], body: (recintos,resultados,colores,fondo) => {
+define({id: "28a5a20b", inputs: ["recintos","resultados","colores","fondo"], outputs: ["colores_expresion"], body: (recintos,resultados,colores,fondo) => {
 // consolidar resultados y recintos
 
 for (const feature of recintos.features) {
@@ -149,10 +149,18 @@ let colores_expresion = ["match", ["get", "partido"]];
 for (const [opcion, color] of Object.entries(colores))
   colores_expresion.push(opcion, color[0]);
 colores_expresion.push(fondo.gris);
+
+for (const feature of recintos.features) {
+  const codigo = feature.properties.c;
+  const resultado = resultados[codigo];
+  feature.properties.total = resultado
+    ? Object.values(resultado.r).reduce((s, v) => s + v, 0)
+    : 0;
+}
 return {colores_expresion};
 }});
 
-define({id: "4d744dd8", outputs: ["labels","recintos_hover"], body: () => {
+define({id: "81d3cd61", outputs: ["labels","recintos_hover"], body: () => {
 const labels = {
   source: {
     type: "raster",
@@ -180,20 +188,20 @@ const recintos_hover = {
     "circle-color": "rgba(0,0,0,0)",
     "circle-radius": [
       "interpolate",
-      ["exponential", 1.2],
+      ["exponential", 1.3],
       ["zoom"],
       6,
+      8,
       10,
-      10,
-      14,
+      11,
       12,
-      18,
       14,
-      22,
+      14,
+      17,
       16,
-      26,
+      20,
       18,
-      30,
+      22,
     ],
   },
 };
@@ -293,7 +301,7 @@ function plot_resultado(resultado) {
 return {plot_resultado};
 }});
 
-define({id: "e70465fd", inputs: ["display","maplibregl","recintos","colores_expresion","labels","recintos_hover","resultados","plot_resultado","invalidation"], outputs: ["div","map","popup","locked","mouseenter","mouseleave"], body: (display,maplibregl,recintos,colores_expresion,labels,recintos_hover,resultados,plot_resultado,invalidation) => {
+define({id: "011930ae", inputs: ["display","maplibregl","recintos","colores_expresion","labels","recintos_hover","resultados","plot_resultado","invalidation"], outputs: ["div","map","popup","locked","mouseenter","mouseleave"], body: (display,maplibregl,recintos,colores_expresion,labels,recintos_hover,resultados,plot_resultado,invalidation) => {
 const div = display(document.createElement("div"));
 div.id = "mapa";
 const map = new maplibregl.Map({
@@ -323,20 +331,14 @@ map.on("load", function () {
     paint: {
       "circle-radius": [
         "interpolate",
-        ["exponential", 1.4],
+        ["linear"],
         ["zoom"],
         6,
-        2,
-        10,
-        4,
+        ["min", 2, ["max", 1, ["*", 0.03, ["to-number", ["get", "total"]]]]],
         12,
-        6,
-        14,
-        9,
+        ["min", 7, ["max", 2, ["*", 0.02, ["to-number", ["get", "total"]]]]],
         16,
-        12,
-        18,
-        16,
+        ["min", 21, ["max", 3, ["*", 0.08, ["to-number", ["get", "total"]]]]],
       ],
       "circle-color": colores_expresion,
       "circle-opacity": 0.5,
@@ -482,10 +484,10 @@ return {div,map,popup,locked,mouseenter,mouseleave};
 <div class="observablehq observablehq--block"><!--:367a1f0d:--></div>
 <div class="observablehq observablehq--block"><!--:a9ffa112:--></div>
 <div class="observablehq observablehq--block"><!--:9c5d30a5:--></div>
-<div class="observablehq observablehq--block"><!--:076f91d7:--></div>
-<div class="observablehq observablehq--block"><!--:4d744dd8:--></div>
+<div class="observablehq observablehq--block"><!--:28a5a20b:--></div>
+<div class="observablehq observablehq--block"><!--:81d3cd61:--></div>
 <div class="observablehq observablehq--block"><!--:842c8555:--></div>
-<div class="observablehq observablehq--block"><!--:e70465fd:--></div>
+<div class="observablehq observablehq--block"><!--:011930ae:--></div>
 </main>
 </div>
 </body>
