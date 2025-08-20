@@ -88,7 +88,7 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
   }
   #mapa {
     position: absolute; 
-    top: 110px; 
+    top: 130px; 
     bottom: 0; 
     width: 100%;
   }
