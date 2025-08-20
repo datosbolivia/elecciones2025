@@ -31,7 +31,7 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
     z-index:4;
     top: 0;
     left: 0;
-    height: 120px;
+    height: 130px;
     .title {
       font-family: serif;
       font-size: 1.5rem;
@@ -83,7 +83,7 @@ maplibregl.addProtocol("pmtiles", protocol.tile);
   }
   #mapa {
     position: absolute; 
-    top: 120px; 
+    top: 130px; 
     bottom: 0; 
     width: 100%;
   }
