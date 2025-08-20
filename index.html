@@ -64,14 +64,14 @@
 import {define} from "./_observablehq/client.caf27530.js";
 import {registerFile} from "./_observablehq/stdlib.24b62b2e.js";
 
-registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755723403212,"size":18424});
-registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755723403212,"size":48160});
-registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755723403213,"size":10220});
-registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755723403213,"size":14496});
-registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755723403214,"size":295964});
-registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755723403214,"size":38746});
-registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755723403214,"size":47182});
-registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755723403214,"size":44812});
+registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755724371844,"size":18424});
+registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755724371844,"size":48160});
+registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755724371844,"size":10220});
+registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755724371844,"size":14496});
+registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755724371845,"size":295964});
+registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755724371846,"size":38746});
+registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755724371846,"size":47182});
+registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755724371846,"size":44812});
 
 define({id: "97e6dbc1", outputs: ["maplibregl","PMTiles","Protocol","protocol"], body: async () => {
 const [{default: maplibregl}, {PMTiles, Protocol}] = await Promise.all([import("./_npm/maplibre-gl@5.6.2/80bead44.js"), import("./_npm/pmtiles@4.3.0/5b853975.js")]);
@@ -668,7 +668,8 @@ return {plot_validos};
     z-index:4;
     top: 0;
     left: 0;
-    height: 130px;
+    height: 110px;
+    padding: 10px;
     .title {
       font-family: serif;
       font-size: 1.5rem;
@@ -691,6 +692,10 @@ return {plot_validos};
       }
     }
     .cambio_input {
+      form {
+        min-height: 0 !important;
+        margin: 7px 0 0 0 !important;
+      }
       form div {
         display: flex;
         align-items: end;
@@ -720,7 +725,7 @@ return {plot_validos};
   }
   #mapa {
     position: absolute; 
-    top: 130px; 
+    top: 110px; 
     bottom: 0; 
     width: 100%;
   }
