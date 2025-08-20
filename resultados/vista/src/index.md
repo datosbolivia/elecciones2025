@@ -138,6 +138,14 @@ let colores_expresion = ["match", ["get", "partido"]];
 for (const [opcion, color] of Object.entries(colores))
   colores_expresion.push(opcion, color[0]);
 colores_expresion.push(fondo.gris);
+
+for (const feature of recintos.features) {
+  const codigo = feature.properties.c;
+  const resultado = resultados[codigo];
+  feature.properties.total = resultado
+    ? Object.values(resultado.r).reduce((s, v) => s + v, 0)
+    : 0;
+}
 ```
 
 ```js
@@ -168,20 +176,20 @@ const recintos_hover = {
     "circle-color": "rgba(0,0,0,0)",
     "circle-radius": [
       "interpolate",
-      ["exponential", 1.2],
+      ["exponential", 1.3],
       ["zoom"],
       6,
+      8,
       10,
-      10,
-      14,
+      11,
       12,
-      18,
       14,
-      22,
+      14,
+      17,
       16,
-      26,
+      20,
       18,
-      30,
+      22,
     ],
   },
 };
@@ -309,20 +317,14 @@ map.on("load", function () {
     paint: {
       "circle-radius": [
         "interpolate",
-        ["exponential", 1.4],
+        ["linear"],
         ["zoom"],
         6,
-        2,
-        10,
-        4,
+        ["min", 2, ["max", 1, ["*", 0.03, ["to-number", ["get", "total"]]]]],
         12,
-        6,
-        14,
-        9,
+        ["min", 7, ["max", 2, ["*", 0.02, ["to-number", ["get", "total"]]]]],
         16,
-        12,
-        18,
-        16,
+        ["min", 21, ["max", 3, ["*", 0.08, ["to-number", ["get", "total"]]]]],
       ],
       "circle-color": colores_expresion,
       "circle-opacity": 0.5,
