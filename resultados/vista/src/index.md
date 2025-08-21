@@ -144,6 +144,7 @@ const vistas = {
       color_recintos: colores_partidos,
       etiquetas:
         "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+      radio: "validos",
     },
   },
   participacion: {
@@ -162,6 +163,7 @@ const vistas = {
       color_recintos: colores_participacion,
       etiquetas:
         "https://a.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png",
+      radio: "total",
     },
   },
 };
@@ -230,8 +232,11 @@ const progreso = await fetch(`${gh}progreso`).then((r) => r.text());
 for (const feature of recintos.features) {
   const codigo = feature.properties.c;
   const resultado = resultados[codigo];
-  feature.properties.total = resultado
+  feature.properties.validos = resultado
     ? Object.values(resultado.r).reduce((s, v) => s + v, 0)
+    : 0;
+  feature.properties.total = resultado
+    ? Object.values(resultado.p).reduce((s, v) => s + v, 0)
     : 0;
   feature.properties.partido = resultado?.g ?? null;
   feature.properties.invalido = resultado?.p
@@ -323,11 +328,23 @@ const capa_recintos = {
         ["linear"],
         ["zoom"],
         6,
-        ["min", 2, ["max", 1, ["*", 0.03, ["to-number", ["get", "total"]]]]],
+        [
+          "min",
+          2,
+          ["max", 1, ["*", 0.03, ["to-number", ["get", v.mapa.radio]]]],
+        ],
         12,
-        ["min", 7, ["max", 2, ["*", 0.02, ["to-number", ["get", "total"]]]]],
+        [
+          "min",
+          7,
+          ["max", 2, ["*", 0.02, ["to-number", ["get", v.mapa.radio]]]],
+        ],
         16,
-        ["min", 21, ["max", 3, ["*", 0.08, ["to-number", ["get", "total"]]]]],
+        [
+          "min",
+          21,
+          ["max", 3, ["*", 0.08, ["to-number", ["get", v.mapa.radio]]]],
+        ],
       ],
       "circle-color": v.mapa.color_recintos,
       "circle-opacity": 0.5,
