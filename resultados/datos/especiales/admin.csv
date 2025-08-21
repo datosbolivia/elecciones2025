@@ -6,6 +6,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 286,2518,2068762,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Pajonal Vilaque,Escuela Pajonal Vilaque,1
 286,2518,2068772,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Pajonal Vilaque,Escuela Pajonal Vilaque,2
 287,2515,2068782,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Mariapu,Esc. Mariapu,1
+2995,2139,2068792,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,La Aguada,La Aguada,1
 3204,8018,2068812,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Yolosani,U.E. Yolosani,1
 3225,8016,2068822,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,1
 3225,8016,2068832,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Candelaria,Unidad Educativa Candelaria,2
@@ -16,6 +17,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 4495,32128,2068902,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,San Juan de Kelequelera,U.E. Kelequelera,1
 4546,32239,2068912,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,2,Guanay,Witoponte,U.E. 14 de Septiembre de Witoponte,1
 304,2506,2069402,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,6,Tipuani,Cotapampa,U.E. Nestor Paz Zamora,1
+3453,1,2069852,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,1
 3453,1,2069862,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,2
 3453,1,2069872,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,3
 3453,1,2069882,32,BOLIVIA,2,La Paz,0,1,6,Larecaja                                ,7,Mapiri,Charopampa,U. E. 1ro de Mayo  de Charopampa,4
@@ -54,6 +56,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 487,2666,2079682,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Santa Ana de Mosetenes,U.E. Santa Ana de Mosetenes,3
 4412,26152,2079892,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Villa Concepción,U.E. Villa Concepción,1
 4412,26152,2079902,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Villa Concepción,U.E. Villa Concepción,2
+4416,26156,2079912,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Inicua Bajo,U.E. El Mosetén,1
 4539,32232,2079922,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San José,U.E. San José,1
 4539,32232,2079932,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,San José,U.E. San José,2
 4542,32235,2079942,32,BOLIVIA,2,La Paz,0,1,11,Sud Yungas                              ,4,Palos Blancos,Playa Verde,U.E. Arancibia de Moseténes,1
@@ -95,6 +98,7 @@ CodigoLocalidad,CodigoRecinto,CodigoMesa,CodigoPais,NombrePais,CodigoDepartament
 3313,25590,2087732,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Soto Pata,U.E. Soto Pata,1
 3313,25590,2087742,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Soto Pata,U.E. Soto Pata,2
 3347,25767,2087752,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarka,U. E. Llachuani,1
+3347,25767,2087762,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Amarka,U. E. Llachuani,2
 3383,1,2087772,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Sayhuani,U.E. Sayhuani,1
 3472,1,2087782,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Kallurhuaya,Unidad Educativa Kallurhuaya,1
 3472,1,2087792,32,BOLIVIA,2,La Paz,0,1,16,Bautista Saavedra                       ,1,Charazani                               ,Kallurhuaya,Unidad Educativa Kallurhuaya,2
