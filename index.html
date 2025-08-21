@@ -64,14 +64,14 @@
 import {define} from "./_observablehq/client.caf27530.js";
 import {registerFile} from "./_observablehq/stdlib.24b62b2e.js";
 
-registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755727238841,"size":18424});
-registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755727238841,"size":48160});
-registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755727238841,"size":10220});
-registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755727238841,"size":14496});
-registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755727238842,"size":295964});
-registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755727238842,"size":38746});
-registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755727238843,"size":47182});
-registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755727238843,"size":44812});
+registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1755777692631,"size":18424});
+registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1755777692631,"size":48160});
+registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1755777692631,"size":10220});
+registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1755777692632,"size":14496});
+registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1755777692633,"size":295964});
+registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1755777692633,"size":38746});
+registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1755777692633,"size":47182});
+registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1755777692633,"size":44812});
 
 define({id: "97e6dbc1", outputs: ["maplibregl","PMTiles","Protocol","protocol"], body: async () => {
 const [{default: maplibregl}, {PMTiles, Protocol}] = await Promise.all([import("./_npm/maplibre-gl@5.6.2/80bead44.js"), import("./_npm/pmtiles@4.3.0/5b853975.js")]);
@@ -91,7 +91,7 @@ const vista = Generators.input(vistaInput);
 return {vistaInput,vista};
 }});
 
-define({id: "9d7307f2", inputs: ["colores_partidos","colores_participacion"], outputs: ["vistas"], body: (colores_partidos,colores_participacion) => {
+define({id: "cb649b12", inputs: ["colores_partidos","colores_participacion"], outputs: ["vistas"], body: (colores_partidos,colores_participacion) => {
 // Vistas
 const vistas = {
   validos: {
@@ -110,6 +110,7 @@ const vistas = {
       color_recintos: colores_partidos,
       etiquetas:
         "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+      radio: "validos",
     },
   },
   participacion: {
@@ -128,6 +129,7 @@ const vistas = {
       color_recintos: colores_participacion,
       etiquetas:
         "https://a.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png",
+      radio: "total",
     },
   },
 };
@@ -211,14 +213,17 @@ const progreso = await fetch(`${gh}progreso`).then((r) => r.text());
 return {gh,recintos,resultados,timestamp,dateFormatter,timestamp_string,progreso};
 }});
 
-define({id: "bdba43e4", inputs: ["recintos","resultados"], body: (recintos,resultados) => {
+define({id: "30e7da64", inputs: ["recintos","resultados"], body: (recintos,resultados) => {
 // Consolidar resultados y recintos
 
 for (const feature of recintos.features) {
   const codigo = feature.properties.c;
   const resultado = resultados[codigo];
-  feature.properties.total = resultado
+  feature.properties.validos = resultado
     ? Object.values(resultado.r).reduce((s, v) => s + v, 0)
+    : 0;
+  feature.properties.total = resultado
+    ? Object.values(resultado.p).reduce((s, v) => s + v, 0)
     : 0;
   feature.properties.partido = resultado?.g ?? null;
   feature.properties.invalido = resultado?.p
@@ -278,7 +283,7 @@ const colores_participacion = [
 return {colores_participacion};
 }});
 
-define({id: "3fa01f2d", inputs: ["v","recintos"], outputs: ["capa_etiquetas","capa_recintos","capa_recintos_hover"], body: (v,recintos) => {
+define({id: "83e9a3a5", inputs: ["v","recintos"], outputs: ["capa_etiquetas","capa_recintos","capa_recintos_hover"], body: (v,recintos) => {
 // Capas
 
 const capa_etiquetas = {
@@ -312,11 +317,23 @@ const capa_recintos = {
         ["linear"],
         ["zoom"],
         6,
-        ["min", 2, ["max", 1, ["*", 0.03, ["to-number", ["get", "total"]]]]],
+        [
+          "min",
+          2,
+          ["max", 1, ["*", 0.03, ["to-number", ["get", v.mapa.radio]]]],
+        ],
         12,
-        ["min", 7, ["max", 2, ["*", 0.02, ["to-number", ["get", "total"]]]]],
+        [
+          "min",
+          7,
+          ["max", 2, ["*", 0.02, ["to-number", ["get", v.mapa.radio]]]],
+        ],
         16,
-        ["min", 21, ["max", 3, ["*", 0.08, ["to-number", ["get", "total"]]]]],
+        [
+          "min",
+          21,
+          ["max", 3, ["*", 0.08, ["to-number", ["get", v.mapa.radio]]]],
+        ],
       ],
       "circle-color": v.mapa.color_recintos,
       "circle-opacity": 0.5,
@@ -752,7 +769,7 @@ return {plot_validos};
   }
 </style>
 <div class="observablehq observablehq--block"><!--:450ef225:--></div>
-<div class="observablehq observablehq--block"><!--:9d7307f2:--></div>
+<div class="observablehq observablehq--block"><!--:cb649b12:--></div>
 <div class="observablehq observablehq--block"><!--:22b6053d:--></div>
 <div class="observablehq observablehq--block"><!--:a9757b9d:--></div>
 <div class="header">
@@ -761,10 +778,10 @@ return {plot_validos};
   <div class="cambio_input"><observablehq-loading></observablehq-loading><!--:4ab7832d:--></div>
 </div>
 <div class="observablehq observablehq--block"><!--:248c53fe:--></div>
-<div class="observablehq observablehq--block"><!--:bdba43e4:--></div>
+<div class="observablehq observablehq--block"><!--:30e7da64:--></div>
 <div class="observablehq observablehq--block"><!--:3a1aef9c:--></div>
 <div class="observablehq observablehq--block"><!--:c19efdf1:--></div>
-<div class="observablehq observablehq--block"><!--:3fa01f2d:--></div>
+<div class="observablehq observablehq--block"><!--:83e9a3a5:--></div>
 <div class="observablehq observablehq--block"><!--:0a1b54db:--></div>
 <div class="observablehq observablehq--block"><!--:85070c41:--></div>
 <div class="observablehq observablehq--block"><!--:02332f73:--></div>
