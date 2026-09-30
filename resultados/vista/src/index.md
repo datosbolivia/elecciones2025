@@ -53,13 +53,14 @@ const vuelta = Generators.input(vueltaInput);
 
 ```js
 // Dependencias externas
-import maplibregl from "npm:maplibre-gl";
+import maplibregl from "npm:maplibre-gl@4.0.2";
 ```
 
 ```js
 // Módulos locales
 import { partidos, formatos } from "./components/definiciones.js";
-import { capa_etiquetas, capa_recintos } from "./components/capas.js";
+import { capa_recintos } from "./components/capas.js";
+import { estiloClaro, estiloOscuro } from "./components/basemap.js";
 import {
   crearMapa,
   actualizarCapas,
@@ -86,10 +87,7 @@ const vistas = {
         "Cada punto es un recinto cuyo color representa a la organización ganadora y cuyo tamaño al número de votos válidos"
     },
     mapa: {
-      estilo:
-        "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json",
-      etiquetas:
-        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+      estilo: estiloClaro,
       radio: "validos",
     },
     datos: {
@@ -111,10 +109,7 @@ const vistas = {
         "Cada punto es un recinto cuyo color representa al porcentaje de votos nulos + blancos sobre el total de habilitados y cuyo tamaño al número de votos habilitados"
     },
     mapa: {
-      estilo:
-        "https://basemaps.cartocdn.com/gl/dark-matter-nolabels-gl-style/style.json",
-      etiquetas:
-        "https://a.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png",
+      estilo: estiloOscuro,
       radio: "total",
     },
     datos: {
@@ -166,7 +161,6 @@ const recinto_colores = {
 ```js
 // Definir capas
 const capas = {
-  etiquetas: capa_etiquetas(v.mapa.etiquetas),
   recintos: capa_recintos(
     recintos,
     v.mapa.radio,
@@ -189,8 +183,8 @@ const popup = new maplibregl.Popup({
 ```js
 // Aplicar capas
 await actualizarCapas(map, v.mapa.estilo, capas, {
-  sources: ["recintos", "etiquetas"],
-  layers: ["recintos", "etiquetas"],
+  sources: ["recintos"],
+  layers: ["recintos"],
   hover: { recintos_hover: "recintos" },
 });
 ```
