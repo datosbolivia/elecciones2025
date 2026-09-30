@@ -15,10 +15,11 @@
 <link rel="modulepreload" href="./_observablehq/client.e6aab745.js">
 <link rel="modulepreload" href="./_observablehq/runtime.e080113b.js">
 <link rel="modulepreload" href="./_observablehq/stdlib.300f231b.js">
-<link rel="modulepreload" href="./_npm/maplibre-gl@6.11.2/356c9cfd.js">
-<link rel="modulepreload" href="./_import/components/definiciones.ee445d17.js">
+<link rel="modulepreload" href="./_npm/maplibre-gl@4.0.2/2095ad2d.js">
+<link rel="modulepreload" href="./_import/components/definiciones.1bcbc607.js">
 <link rel="modulepreload" href="./_import/components/capas.e2afdc89.js">
-<link rel="modulepreload" href="./_import/components/mapa.d6cbea4e.js">
+<link rel="modulepreload" href="./_import/components/basemap.6edb80ec.js">
+<link rel="modulepreload" href="./_import/components/mapa.a140101f.js">
 <link rel="modulepreload" href="./_import/components/helpers.ae8a66cd.js">
 <link rel="modulepreload" href="./_npm/d3@7.9.0/080cf928.js">
 <link rel="modulepreload" href="./_observablehq/stdlib/inputs.a78e04a0.js">
@@ -66,14 +67,14 @@
 import {define} from "./_observablehq/client.e6aab745.js";
 import {registerFile} from "./_observablehq/stdlib.300f231b.js";
 
-registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1790807748979,"size":18424});
-registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1790807748979,"size":48160});
-registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1790807748979,"size":10220});
-registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1790807748979,"size":14496});
-registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1790807748980,"size":295964});
-registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1790807748980,"size":38746});
-registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1790807748981,"size":47182});
-registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1790807748981,"size":44812});
+registerFile("./imagenes/ap.webp", {"name":"./imagenes/ap.webp","mimeType":"image/webp","path":"./_file/imagenes/ap.8f26d418.webp","lastModified":1790807836580,"size":18424});
+registerFile("./imagenes/apb-sumate.webp", {"name":"./imagenes/apb-sumate.webp","mimeType":"image/webp","path":"./_file/imagenes/apb-sumate.6be31528.webp","lastModified":1790807836581,"size":48160});
+registerFile("./imagenes/fp.webp", {"name":"./imagenes/fp.webp","mimeType":"image/webp","path":"./_file/imagenes/fp.7f1aa632.webp","lastModified":1790807836581,"size":10220});
+registerFile("./imagenes/libre.webp", {"name":"./imagenes/libre.webp","mimeType":"image/webp","path":"./_file/imagenes/libre.f3b956c2.webp","lastModified":1790807836581,"size":14496});
+registerFile("./imagenes/lyp-adn.webp", {"name":"./imagenes/lyp-adn.webp","mimeType":"image/webp","path":"./_file/imagenes/lyp-adn.19b6d52b.webp","lastModified":1790807836581,"size":295964});
+registerFile("./imagenes/mas-ipsp.webp", {"name":"./imagenes/mas-ipsp.webp","mimeType":"image/webp","path":"./_file/imagenes/mas-ipsp.337a492c.webp","lastModified":1790807836581,"size":38746});
+registerFile("./imagenes/pdc.webp", {"name":"./imagenes/pdc.webp","mimeType":"image/webp","path":"./_file/imagenes/pdc.ffe97178.webp","lastModified":1790807836581,"size":47182});
+registerFile("./imagenes/unidad.webp", {"name":"./imagenes/unidad.webp","mimeType":"image/webp","path":"./_file/imagenes/unidad.2fd99556.webp","lastModified":1790807836581,"size":44812});
 
 define({id: "5bbf212e", mode: "inline", inputs: ["v","display"], body: async (v,display) => {
 display(await(
@@ -139,21 +140,21 @@ const vuelta = Generators.input(vueltaInput);
 return {vueltas,vueltas_folder,vueltaInput,vuelta};
 }});
 
-define({id: "b6e21c59", outputs: ["maplibregl"], body: async () => {
-const {default: maplibregl} = await import("./_npm/maplibre-gl@6.11.2/356c9cfd.js");
+define({id: "e03351cd", outputs: ["maplibregl"], body: async () => {
+const {default: maplibregl} = await import("./_npm/maplibre-gl@4.0.2/2095ad2d.js");
 // Dependencias externas
 
 return {maplibregl};
 }});
 
-define({id: "1ba9cd28", outputs: ["partidos","formatos","capa_etiquetas","capa_recintos","crearMapa","actualizarCapas","colormap_categorias","colormap_lineal","ordenarResultado"], body: async () => {
-const [{partidos, formatos}, {capa_etiquetas, capa_recintos}, {crearMapa, actualizarCapas, colormap_categorias, colormap_lineal}, {ordenarResultado}] = await Promise.all([import("./_import/components/definiciones.ee445d17.js"), import("./_import/components/capas.e2afdc89.js"), import("./_import/components/mapa.d6cbea4e.js"), import("./_import/components/helpers.ae8a66cd.js")]);
+define({id: "03b9eec4", outputs: ["partidos","formatos","capa_recintos","estiloClaro","estiloOscuro","crearMapa","actualizarCapas","colormap_categorias","colormap_lineal","ordenarResultado"], body: async () => {
+const [{partidos, formatos}, {capa_recintos}, {estiloClaro, estiloOscuro}, {crearMapa, actualizarCapas, colormap_categorias, colormap_lineal}, {ordenarResultado}] = await Promise.all([import("./_import/components/definiciones.1bcbc607.js"), import("./_import/components/capas.e2afdc89.js"), import("./_import/components/basemap.6edb80ec.js"), import("./_import/components/mapa.a140101f.js"), import("./_import/components/helpers.ae8a66cd.js")]);
 // Módulos locales
 
-return {partidos,formatos,capa_etiquetas,capa_recintos,crearMapa,actualizarCapas,colormap_categorias,colormap_lineal,ordenarResultado};
+return {partidos,formatos,capa_recintos,estiloClaro,estiloOscuro,crearMapa,actualizarCapas,colormap_categorias,colormap_lineal,ordenarResultado};
 }});
 
-define({id: "303294bf", outputs: ["vistas"], body: () => {
+define({id: "92320c05", inputs: ["estiloClaro","estiloOscuro"], outputs: ["vistas"], body: (estiloClaro,estiloOscuro) => {
 // Definir vistas
 const vistas = {
   validos: {
@@ -170,10 +171,7 @@ const vistas = {
         "Cada punto es un recinto cuyo color representa a la organización ganadora y cuyo tamaño al número de votos válidos",
     },
     mapa: {
-      estilo:
-        "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json",
-      etiquetas:
-        "https://a.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png",
+      estilo: estiloClaro,
       radio: "validos",
     },
     datos: {
@@ -194,10 +192,7 @@ const vistas = {
         "Cada punto es un recinto cuyo color representa al porcentaje de votos nulos + blancos sobre el total de habilitados y cuyo tamaño al número de votos habilitados",
     },
     mapa: {
-      estilo:
-        "https://basemaps.cartocdn.com/gl/dark-matter-nolabels-gl-style/style.json",
-      etiquetas:
-        "https://a.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png",
+      estilo: estiloOscuro,
       radio: "total",
     },
     datos: {
@@ -268,10 +263,9 @@ const recinto_colores = {
 return {recinto_colores};
 }});
 
-define({id: "eddf76c5", inputs: ["capa_etiquetas","v","capa_recintos","recintos","recinto_colores","vuelta","vista"], outputs: ["capas"], body: (capa_etiquetas,v,capa_recintos,recintos,recinto_colores,vuelta,vista) => {
+define({id: "d7b4d1cc", inputs: ["capa_recintos","recintos","v","recinto_colores","vuelta","vista"], outputs: ["capas"], body: (capa_recintos,recintos,v,recinto_colores,vuelta,vista) => {
 // Definir capas
 const capas = {
-  etiquetas: capa_etiquetas(v.mapa.etiquetas),
   recintos: capa_recintos(
     recintos,
     v.mapa.radio,
@@ -293,11 +287,11 @@ const popup = new maplibregl.Popup({
 return {map,popup};
 }});
 
-define({id: "fe7e174d", inputs: ["actualizarCapas","map","v","capas"], body: async (actualizarCapas,map,v,capas) => {
+define({id: "c0fde7db", inputs: ["actualizarCapas","map","v","capas"], body: async (actualizarCapas,map,v,capas) => {
 // Aplicar capas
 await actualizarCapas(map, v.mapa.estilo, capas, {
-  sources: ["recintos", "etiquetas"],
-  layers: ["recintos", "etiquetas"],
+  sources: ["recintos"],
+  layers: ["recintos"],
   hover: { recintos_hover: "recintos" },
 });
 }});
@@ -585,15 +579,15 @@ return {plotResultado};
 <div id="mapa"></div>
 <div class="observablehq observablehq--block"><!--:9d10e8c1:--></div>
 <div class="observablehq observablehq--block"><!--:4aab9e99:--></div>
-<div class="observablehq observablehq--block"><!--:b6e21c59:--></div>
-<div class="observablehq observablehq--block"><!--:1ba9cd28:--></div>
-<div class="observablehq observablehq--block"><!--:303294bf:--></div>
+<div class="observablehq observablehq--block"><!--:e03351cd:--></div>
+<div class="observablehq observablehq--block"><!--:03b9eec4:--></div>
+<div class="observablehq observablehq--block"><!--:92320c05:--></div>
 <div class="observablehq observablehq--block"><!--:5fc65b51:--></div>
 <div class="observablehq observablehq--block"><!--:22b6053d:--></div>
 <div class="observablehq observablehq--block"><!--:71aada04:--></div>
-<div class="observablehq observablehq--block"><!--:eddf76c5:--></div>
+<div class="observablehq observablehq--block"><!--:d7b4d1cc:--></div>
 <div class="observablehq observablehq--block"><!--:d414dfb4:--></div>
-<div class="observablehq observablehq--block"><!--:fe7e174d:--></div>
+<div class="observablehq observablehq--block"><!--:c0fde7db:--></div>
 <div class="observablehq observablehq--block"><!--:f8d99ee0:--></div>
 <div class="observablehq observablehq--block"><!--:f9bad84e:--></div>
 <div class="observablehq observablehq--block"><!--:27b05165:--></div>

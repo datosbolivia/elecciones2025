@@ -1,4 +1,4 @@
-import maplibregl from "../../_npm/maplibre-gl@6.11.2/356c9cfd.js";
+import maplibregl from "../../_npm/maplibre-gl@4.0.2/2095ad2d.js";
 
 export const crearMapa = (selector) => {
   const container = document.querySelector(selector);
@@ -38,9 +38,9 @@ export const actualizarCapas = async (map, estilo, capas, definiciones) => {
     for (const source of sources)
       map.getSource(source) || map.addSource(source, capas[source].source);
     for (const layer of layers)
-      map.getLayer(layer) || map.addLayer(capas[layer].layer);
+      map.getLayer(layer) || map.addLayer(capas[layer].layer, "etiquetas");
     for (const [id, layer] of Object.entries(hover))
-      map.getLayer(id) || map.addLayer(capas[layer].hover);
+      map.getLayer(id) || map.addLayer(capas[layer].hover, "etiquetas");
   };
   map.setStyle(estilo, { diff: false });
   await map.once("style.load", () => {
